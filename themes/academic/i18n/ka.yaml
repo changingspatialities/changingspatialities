@@ -1,0 +1,225 @@
+# Navigation
+
+- id: toggle_navigation
+  translation: ნავიგაცია
+
+- id: table_of_contents
+  translation: სტრუქტურა
+
+- id: on_this_page
+  translation: შემადგენლობა
+
+- id: back_to_top
+  translation: ზევით
+
+# General
+
+- id: related
+  translation: მსგავსი
+
+- id: minute_read
+  translation: წუთის საკითხავი
+
+- id: previous
+  translation: წინა პოსტი
+
+- id: next
+  translation: შემდეგი პოსტი
+
+- id: figure
+  translation: "სურათი %d:"
+
+- id: edit_page
+  translation: გვერდის ედიტირება
+
+# Buttons
+
+- id: btn_preprint
+  translation: სამუშაო ვერსია
+
+- id: btn_pdf
+  translation: PDF დოკუმენტი
+
+- id: btn_cite
+  translation: ციტირება
+
+- id: btn_slides
+  translation: სლაიდები
+
+- id: btn_video
+  translation: ვიდეო
+
+- id: btn_code
+  translation: კოდი
+
+- id: btn_dataset
+  translation: მონაცემები
+
+- id: btn_project
+  translation: პროექტი
+
+- id: btn_poster
+  translation: პოსტერი
+
+- id: btn_source
+  translation: წყარო
+
+- id: btn_copy
+  translation: კოპირება
+
+- id: btn_download
+  translation: გადმოწერა
+
+# About widget
+
+- id: interests
+  translation: ინტერესები
+
+- id: education
+  translation: განათლება
+
+- id: user_profile_latest
+  translation: სიახლეები
+
+# Accomplishments widget
+
+- id: see_certificate
+  translation: სერტიფიკატები
+
+# Experience widget
+
+- id: present
+  translation: ამჟამად
+
+# Pages widget
+
+- id: more_pages
+  translation: ყველა გვერდი
+
+- id: more_posts
+  translation: ყველა ფოტო
+
+- id: more_talks
+  translation: ყველა საჯარო გამოსვლა
+
+- id: more_publications
+  translation: ყველა პუბლიკაცია
+
+# Contact widget
+
+- id: contact_name
+  translation: სახელი
+
+- id: contact_email
+  translation: ელ.ფოსტა
+
+- id: contact_message
+  translation: შეტყობინება
+
+- id: contact_send
+  translation: გაგზავნა
+
+- id: book_appointment
+  translation: შეხვედრა
+
+# Publication/Talk details
+
+- id: abstract
+  translation: აბსტრაქტი
+
+- id: publication
+  translation: პუბლიკაცია
+
+- id: publication_type
+  translation: ტიპი
+
+- id: date
+  translation: თარიღი
+
+- id: last_updated
+  translation: ბოლო განახლება
+
+- id: event
+  translation: ივენთი
+
+- id: location
+  translation: მდებარეობა
+
+- id: pub_uncat
+  translation: კატეგორიის გარეშე
+
+- id: pub_conf
+  translation: საკონფერენციო სტატია
+
+- id: pub_journal
+  translation: აკადემიური ჟურნალის სტატია
+
+- id: pub_preprint
+  translation: პუბლიკაციის პირველადი ვერსია
+
+- id: pub_report
+  translation: კვლევის ანგარიში
+
+- id: pub_book
+  translation: წიგნი
+
+- id: pub_book_section
+  translation: წიგნის თავი
+
+- id: pub_thesis
+  translation: თეზისი
+
+- id: pub_patent
+  translation: პატენტი
+
+# Project details
+
+- id: open_project_site
+  translation: პროექტების გვერდზე გადასვლა
+
+# Default titles for archive pages
+
+- id: posts
+  translation: პოსტები
+
+- id: publications
+  translation: პუბლიკაციები
+
+- id: talks
+  translation: საჯარო გამოსვლები
+
+- id: projects
+  translation: პროექტები
+
+# Search
+
+- id: search
+  translation: ძებნა
+
+- id: search_placeholder
+  translation: ძებნა...
+
+- id: search_results
+  translation: ნაპოვნია
+
+- id: search_no_results
+  translation: არაფერია ნაპოვნი
+
+# Error 404
+
+- id: page_not_found
+  translation: გვერდი არ არსებობს
+
+- id: 404_recommendations
+  translation: შემთხვევით, ამათგან რომელიმეს ხომ არ ეძებდი?
+
+# Cookie consent
+
+- id: cookie_message
+  translation: ეს საიტი იყენებს ქუქის (წესით უნდა იცოდე ეს რას ნიშნავს ინტერნეტს თუ იყენებ), რათა უკეთ მოერგოს შენს საჭიროებებს.
+
+- id: cookie_dismiss
+  translation: გასაგებია!
+
+- id: cookie_learn
+  translation: შეიტყვე მეტი
