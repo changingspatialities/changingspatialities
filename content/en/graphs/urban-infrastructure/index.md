@@ -1,7 +1,7 @@
 ---
-title: Urban [Mobility] Infrastructures 
-subtitle: A collection of maps
-summary: A collection of maps
+title: Urban Infrastructures 
+subtitle: The [in]visibility of networked infrastructures and infrastructure interruption
+summary: The [in]visibility of networked infrastructures and infrastructure interruption
 lastmod: 2020-03-10
 math: true
 diagram: true
@@ -78,42 +78,42 @@ As city's water and sanitation networks were planned with much lesser urban dens
 
 <div class="row">
   <div class="column" style="">
-    <p>{{< figure src="/img/gwp_1_gldani_ka.png" width=360 title="გლდანი" >}}</p>
+    <p>{{< figure src="/img/gwp_1_gldani_ka.png" width=360 title="Gldani" >}}</p>
   </div>
   <div class="column" style="">
-    <p>{{< figure src="/img/gwp_2_nadzaladevi_ka.png" width=360 title="ნაძალადევი" >}}</p>
-  </div>
-</div>
-<div class="row">
-  <div class="column" style="">
-    <p>{{< figure src="/img/gwp_3_didube_ka.png" width=360 title="დიდუბე">}}</p>
-  </div>
-  <div class="column" style="">
-    <p>{{< figure src="/img/gwp_4_chughureti_ka.png" width=360 title="ჩუღურეთი">}}</p>
+    <p>{{< figure src="/img/gwp_2_nadzaladevi_ka.png" width=360 title="Nadzaladevi" >}}</p>
   </div>
 </div>
 <div class="row">
   <div class="column" style="">
-    <p>{{< figure src="/img/gwp_5_vake_ka.png" width=360 title="ვაკე">}}</p>
+    <p>{{< figure src="/img/gwp_3_didube_ka.png" width=360 title="Didube">}}</p>
   </div>
   <div class="column" style="">
-    <p>{{< figure src="/img/gwp_6_saburtalo_ka.png" width=360 title="საბურთალო" >}}</p>
-  </div>
-</div>
-<div class="row">
-  <div class="column" style="">
-    <p>{{< figure src="/img/gwp_7_mtatsminda_ka.png" width=360 title="მთაწმინდა">}}</p>
-  </div>
-  <div class="column" style="">
-    <p>{{< figure src="/img/gwp_8_krtsanisi_ka.png" width=360 title="კრწანისი" >}}</p>
+    <p>{{< figure src="/img/gwp_4_chughureti_ka.png" width=360 title="Chughureti">}}</p>
   </div>
 </div>
 <div class="row">
   <div class="column" style="">
-    <p>{{< figure src="/img/gwp_9_isani_ka.png" width=360 title="ისანი">}}</p>
+    <p>{{< figure src="/img/gwp_5_vake_ka.png" width=360 title="Vake">}}</p>
   </div>
   <div class="column" style="">
-    <p>{{< figure src="/img/gwp_10_samgori_ka.png" width=360 title="სამგორი" >}}</p>
+    <p>{{< figure src="/img/gwp_6_saburtalo_ka.png" width=360 title="Saburtalo" >}}</p>
+  </div>
+</div>
+<div class="row">
+  <div class="column" style="">
+    <p>{{< figure src="/img/gwp_7_mtatsminda_ka.png" width=360 title="Mtatsminda">}}</p>
+  </div>
+  <div class="column" style="">
+    <p>{{< figure src="/img/gwp_8_krtsanisi_ka.png" width=360 title="Krtsanisi" >}}</p>
+  </div>
+</div>
+<div class="row">
+  <div class="column" style="">
+    <p>{{< figure src="/img/gwp_9_isani_ka.png" width=360 title="Isani">}}</p>
+  </div>
+  <div class="column" style="">
+    <p>{{< figure src="/img/gwp_10_samgori_ka.png" width=360 title="Samgori" >}}</p>
   </div>
 </div>
 </body>
