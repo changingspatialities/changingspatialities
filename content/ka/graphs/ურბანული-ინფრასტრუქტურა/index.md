@@ -22,9 +22,6 @@ links:
 
 {{< figure src="/img/tram_ka.jpg" width=360 title="თბილისის ტრამვაის ქსელი 1962 წელს" >}}
 
-**გამოყენებული პროგრამები:** _Arcmap_; _QGIS_; _Adobe Illustrator_
-**მონაცემები:** _Wikipedia_
-
 *****
 
 <center><h3> ინფრასტრუქტურული წყვეტა და <br> ქსელური ინფრასტრუქტურა თბილისში </h3></center>
@@ -124,6 +121,6 @@ links:
 </body>
 </html>
 
-**გამოყენებული პროგრამები:** _Python_; _Adobe Illustrator_             
+**გამოყენებული პროგრამები:** _Arcmap_; _QGIS_; _Python_; _Adobe Illustrator_             
 
-**მონაცემები:** _GWP_
+**მონაცემები:** _Wikipedia_; _თბილისი მუნიციპალიტეტის მერია_; _GWP_ 
