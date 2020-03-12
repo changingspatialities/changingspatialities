@@ -65,7 +65,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [frontmatter]
 date = [ "date", "publishDate"]
-lastmod = [":git", "lastmod"]
+lastmod = [":git", "lastmod", "publishDate"]
 publishDate = ["publishDate", "date"]
 expiryDate = ["expiryDate"]
 
