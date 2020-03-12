@@ -24,7 +24,7 @@ Joy Division-ის ალბომის <a href="https://en.wikipedia.org/wiki
 ეს კონკრეტული ვიზუალიზაცია, საქართველოს მაგალითზე დაყრდნობით აჩვენებს მოსახლეობის სიმჭიდროვეს 1 კვ.კმ კვადრატების შესაბამისად, აფხაზეთის ა.რ.-სა და ცხინვალის რეგიონის გამოკლებით.</p>
 
 <p align="justify">
-ვიზუალიზაციის ბრაუზერის მთლიან გვერდზე სანახავად <a href="https://geojoylines.github.io/"> იხილეთ </a></p>
+ვიზუალიზაციის ბრაუზერის მთლიან გვერდზე სანახავად მიყევით ამ<a href="https://geojoylines.github.io/">ბმულს.</a></p>
 
 <div>
 <iframe src="https://geojoylines.github.io/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width=100% allowfullscreen></iframe>
