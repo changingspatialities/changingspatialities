@@ -1,7 +1,7 @@
 ---
 title: Urban Infrastructures 
-subtitle: The [in]visibility of networked infrastructures and [their]interruption
-summary: The [in]visibility of networked infrastructures and [their] interruption
+subtitle: The [in]visibility of networked infrastructures and [their] interruption
+summary: The [in]visibility of networked infrastructures and [their]  interruption
 lastmod: 2020-03-10
 math: true
 diagram: true
