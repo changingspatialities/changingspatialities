@@ -5,9 +5,6 @@ summary: Python და ხელმისაწვდომი საცხო�
 lastmod: 2020-03-10
 math: true
 diagram: true
-image:
-  placement: 
-  caption: ''
 links:
   - icon_pack: fab
     icon: medium

@@ -2,20 +2,28 @@
 title: Urban [Mobility] Infrastructures 
 subtitle: A collection of maps
 summary: A collection of maps
-date: 2020-02-13
+lastmod: 2020-03-10
 math: true
 diagram: true
 image:
   placement: 3
   caption: ''
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/gkankia'
 ---
-### TBILISI TRAM NETWORK IN EARLY 1960s
+<center><h3> Tbilisi Tram Network in early 1960s </h3></center>
 
-Starting from the early 1950s, soviet mass housing projects, concentrated in so called “mikrorayons” in the outskirts of the city, were connected to major industrial zones primarily by public transit, as access to private vehicle to general population was limited. 
+<p align="justify">
+Starting from the early 1950s, soviet mass housing projects, concentrated in so called “mikrorayons” in the outskirts of the city, were connected to major industrial zones primarily by public transit, as access to private vehicle to general population was limited. </p>
+
+{{< figure src="/img/tram_en.jpg" width=360 title="Tbilisi Tram Network in 1962" >}}
 
 **Tools Used:** _Arcmap_; _QGIS_; _Adobe Illustrator_ **Data:** _Wikipedia_
 
-{{< figure src="/img/tram_en.jpg" title="Tbilisi Tram Network in 1962" >}}
+*****
 
 ### NETWORKED INFRASTRUCTURE IN CONTEMPORARY TBILISI
 

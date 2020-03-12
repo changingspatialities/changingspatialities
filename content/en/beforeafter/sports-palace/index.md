@@ -4,17 +4,22 @@ subtitle: Physical manifestation of urban development in Tbilisi in recent decad
 summary: Physical manifestation of urban development in Tbilisi in recent decades
 tags: []
 categories: []
-date: "2020-02-15T00:00:00Z"
-lastMod: "2020-02-15T00:00:00Z"
+publishDate: 2020-02-15
 math: true
 diagram: true
 image:
   placement: 3
   caption: 'Photo credits **idea.tbilisi.gov.ge**'
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/gkankia'
 ---
 
+<p align="justify">
 The surrounding area of Tbilisi Sports Palace has become synonymous and a physical manifestation of the unregulated urban development and real estate speculation that has been reshaping the city for more than a couple of decades now. The high-rise residential buildings from early 2000s through 2010s are of poor quality and some of the underground parking spaces have been flooded by ground water, forcing residents to park their cars on the sidewalks, limiting public space. 
-Other businesses also followed the path of the developers and demonstrated their eagerness to take over the open urban spaces for their own profit. 
+Other businesses also followed the path of the developers and demonstrated their eagerness to take over the open urban spaces for their own profit.</p> 
 
 A number of examples are pointed out on 2017 satellite image:
 
@@ -24,7 +29,7 @@ A number of examples are pointed out on 2017 satellite image:
  4. Wendy’s (took over the sidewalk);
  5. Holiday Inn parking (took over part of the public road). 
 
-As a side note, previous mayor of Tbilisi (2013-2017) used to reside in this area while in office. Most likely he still lives there.
+As a side note, previous mayor of Tbilisi (2013-2017) used to reside in this area while in office. Most likely he still lives there. 
 
 <div><iframe frameborder="0" class="juxtapose" width="100%" height="525" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=812ccc80-56cd-11e9-8106-0edaf8f81e27"></iframe></div>
 
