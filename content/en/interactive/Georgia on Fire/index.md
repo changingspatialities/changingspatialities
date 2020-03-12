@@ -2,7 +2,7 @@
 title: Georgia on Fire
 subtitle: Mapping fire prevalence using Kepler.gl
 summary: Mapping fire prevalence using Kepler.gl
-date: 2020-02-13
+lastmod: 2020-02-13
 math: true
 diagram: true
 image:
