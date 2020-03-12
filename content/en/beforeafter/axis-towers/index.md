@@ -1,5 +1,5 @@
 ---
-title: AXIS Towers (Tbilisi)
+title: AXIS Towers
 subtitle: Private capital against public good
 summary: The story of how private capital appropriated public space
 tags: []

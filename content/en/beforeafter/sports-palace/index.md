@@ -1,5 +1,5 @@
 ---
-title: Sports Palace (Tbilisi)
+title: Sports Palace
 subtitle: Physical manifestation of urban development in Tbilisi in recent decades
 summary: Physical manifestation of urban development in Tbilisi in recent decades
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: Heroes' Square (Tbilisi) 
+title: Heroes' Square
 subtitle: Overpriced infrastructure and natural hazard
 summary: Overpriced infrastructure and natural hazard
 tags: []
