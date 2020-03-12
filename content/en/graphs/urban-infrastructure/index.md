@@ -1,18 +1,13 @@
 ---
 title: Urban Infrastructures 
-subtitle: The [in]visibility of networked infrastructures and infrastructure interruption
-summary: The [in]visibility of networked infrastructures and infrastructure interruption
+subtitle: The [in]visibility of networked infrastructures and [their]interruption
+summary: The [in]visibility of networked infrastructures and [their] interruption
 lastmod: 2020-03-10
 math: true
 diagram: true
 image:
   placement: 3
   caption: ''
-links:
-  - icon_pack: fab
-    icon: twitter
-    name: Follow
-    url: 'https://twitter.com/gkankia'
 ---
 <center><h3> Tbilisi Tram Network in early 1960s </h3></center>
 
