@@ -10,11 +10,6 @@ diagram: true
 image:
   placement: 3
   caption: 'Photo credit **GHN**'
-links:
-  - icon_pack: fab
-    icon: twitter
-    name: Follow
-    url: 'https://twitter.com/gkankia'
 ---
 <p align="justify">
 The recent transformation of the biggest transit node in the city included the construction of multiple flyover bridges connected to a new highway in the Vere river plain, and the construction of a new monument in 2011. The cost of this new infrastructure reached <a href="https://idfi.ge/ge/news-66"> 115 mln GEL (in Georgian)</a> (USD 68 mln in 2011 rates). Four years later, in June 2015, the area became an epicenter of one of the deadliest floods recorded in the last 100 years in the city, killing tens of local residents, destroying the nearby zoo and killing the majority of its animals. The city administration took the decision to restore the damaged infrastructure in the river plain costing additional <a href="http://tbilisi.gov.ge/news/1358">[15 mln GEL] (in Georgian)</a>.

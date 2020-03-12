@@ -19,8 +19,6 @@ image:
 }
 </style>
 
-<img src="/img/geojoylines.jpeg" width=100% alt="geojoylines">
-
 <p align="justify">
 Joy Division-ის ალბომის <a href="https://en.wikipedia.org/wiki/Unknown_Pleasures"> Unknown Pleasures </a> გარეკანის დიზაინი ინსიპირაციად იქცა [სივრცითი] მონაცემების მეცნიერეთათვის. ერთ-ერთი მაგალითია ინგლისელი გეოგრაფი <a href="http://spatial.ly/2017/07/joy-division-population-surfaces-and-pioneering-electronic-cartography/">ჯეიმს ჩეშირი. </a> მოგვიანებით, მონაცემთა ამ ფორმით ვიზუალიზაციას ჯოი ფლოთი (ინგლ. Joy Plot) შეარქვეს, თუმცა იგი ცნობილია სხვა სახელებითაც (მაგ. Ridgelines, Joylines). 
 ეს კონკრეტული ვიზუალიზაცია, საქართველოს მაგალითზე დაყრდნობით აჩვენებს მოსახლეობის სიმჭიდროვეს 1 კვ.კმ კვადრატების შესაბამისად, აფხაზეთის ა.რ.-სა და ცხინვალის რეგიონის გამოკლებით.</p>

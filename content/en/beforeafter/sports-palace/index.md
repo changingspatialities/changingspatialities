@@ -10,11 +10,6 @@ diagram: true
 image:
   placement: 3
   caption: 'Photo credits **idea.tbilisi.gov.ge**'
-links:
-  - icon_pack: fab
-    icon: twitter
-    name: Follow
-    url: 'https://twitter.com/gkankia'
 ---
 
 <p align="justify">
