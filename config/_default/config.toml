@@ -64,7 +64,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
 [frontmatter]
-date = [ "date", "publishDate", "lastmod"]
+date = [ "date", "publishDate"]
 lastmod = [":git", "lastmod", "publishDate", "date"]
 publishDate = ["publishDate", "date"]
 expiryDate = ["expiryDate"]
