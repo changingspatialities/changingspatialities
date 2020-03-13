@@ -1,7 +1,7 @@
 ---
 title: Sports Palace
-subtitle: Physical manifestation of urban development in Tbilisi in recent decades
-summary: Physical manifestation of urban development in Tbilisi in recent decades
+subtitle: Physical manifestation of urban 'developmentalism' in Tbilisi
+summary: Physical manifestation of urban 'developmentalism' in Tbilisi
 tags: []
 categories: []
 publishDate: 2020-02-15
