@@ -2,7 +2,7 @@
 title: "მობილობის სოციალური ინფრასტრუქტურა და საცხოვრებელი სივრცეები"
 authors:
 - gkankia
-publishDate: "2020-01-17T00:00:00Z" 
+publishDate: 2020-01-17 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,14 +32,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ge.boell.org/sites/default/files/2020-01/%e1%83%9b%e1%83%9d%e1%83%91%e1%83%98%e1%83%9a%e1%83%9d%e1%83%91%e1%83%98%e1%83%a1%20%e1%83%a1%e1%83%9d%e1%83%aa%e1%83%98%e1%83%90%e1%83%9a%e1%83%a3%e1%83%a0%e1%83%98%20%e1%83%98%e1%83%9c%e1%83%a4%e1%83%a0%e1%83%90%e1%83%a1%e1%83%a2%e1%83%a0%e1%83%a5%e1%83%a2%e1%83%a3%e1%83%a0%e1%83%90%20%e1%83%93%e1%83%90%20%e1%83%a1%e1%83%90%e1%83%aa%e1%83%ae%e1%83%9d%e1%83%95%e1%83%a0%e1%83%94%e1%83%91%e1%83%94%e1%83%9a%e1%83%98%20%e1%83%a1%e1%83%98%e1%83%95%e1%83%a0%e1%83%aa%e1%83%94%e1%83%94%e1%83%91%e1%83%98.pdf
+url_pdf: 'http://bit.ly/3b0UBSp'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=XFlBfhxJDq8'
+url_video: 'http://bit.ly/38N7IVK'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
