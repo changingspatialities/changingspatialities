@@ -94,4 +94,7 @@ links:
 </body>
 </html>
 
-**გამოყენებული პროგრამები:** _Python_; _Adobe Illustrator_
+<font size="2">
+    <b>გამოყენებული პროგრამები:</b> <i>Python & Adobe Illustrator</i>
+</font>
+
