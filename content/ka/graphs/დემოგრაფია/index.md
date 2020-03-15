@@ -88,4 +88,6 @@ links:
 </body>
 </html>
 
-**გამოყენებული პროგრამები:** _ArcMap_; _ArcScene_; _Adobe Illustrator_
+<font size="2">
+    <b>გამოყენებული პროგრამები:</b> <i>ArcMap; ArcScene & Adobe Illustrator</i>  <br> <b>მონაცემები:</b> <a href="http://gis.geostat.ge/GeoMap/layersw/index.html"><i>საქსტატი</i></a>
+</font>

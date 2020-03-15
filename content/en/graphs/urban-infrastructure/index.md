@@ -114,11 +114,6 @@ As city's water and sanitation networks were planned with much lesser urban dens
 </body>
 </html>
 
-**Tools Used:** _Arcmap_; _QGIS_; _Python_; _Adobe Illustrator_ 
-**Data:** _Wikipedia_; _Tbilisi City Municipality_; _GWP_
-
-
-
-
-
-
+<font size="2">
+    <b>Tools Used:</b> <i>Arcmap; QGIS; Python & Adobe Illustrator</i>  <br> <b>Data:</b><i>Wikipedia; Tbilisi City Municipality & GWP</i>
+</font>
