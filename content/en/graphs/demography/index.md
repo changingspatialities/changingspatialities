@@ -91,5 +91,5 @@ Further analysis on Georgia's demographic change over the last decades was publi
 </html>
 
 <font size="2">
-    <b>Tools used:</b> <i>ArcMap; ArcScene & Adobe Illustrator</i>  <br> <b>Data:</b> <a href="http://gis.geostat.ge/GeoMap/layersw/index.html"><i>GeoStat</i></a>
+    <b>Tools Used:</b> <i>ArcMap; ArcScene & Adobe Illustrator</i>  <br> <b>Data:</b> <a href="http://gis.geostat.ge/GeoMap/layersw/index.html"><i>GeoStat</i></a>
 </font>
