@@ -29,4 +29,6 @@ image:
 <iframe src="https://gmertometeorigvesrole.github.io/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width=100% allowfullscreen></iframe>
 </div>
 
-**Tools Used:** _Kepler.gl library in Python_  **Data:** [_NASA (through Dataworld)_](https://data.world/nasa/meteorite-landings)
+<font size="2">
+    <b>გამოყენებული პროგრამები:</b> <i>Kepler.gl library in Python</i>  <br> <b>მონაცემები:</b> <a href="https://data.world/nasa/meteorite-landings"><i>NASA (Dataworld)</i></a>
+</font>

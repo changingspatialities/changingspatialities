@@ -30,5 +30,6 @@ Joy Division-ის ალბომის <a href="https://en.wikipedia.org/wiki
 <iframe src="https://geojoylines.github.io/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width=100% allowfullscreen></iframe>
 </div>
 
-**გამოყენებული პროგრამები:** _QGIS & Three.js plugin_ 
-**მონაცემები:** [_საქსტატი_](http://gis.geostat.ge/GeoMap/layersw/index.html)
+<font size="2">
+    <b>გამოყენებული პროგრამები:</b> <i>QGIS & Three.js plugin</i>  <br> <b>მონაცემები:</b> <a href="http://gis.geostat.ge/GeoMap/layersw/index.html"><i>საქსტატი</i></a>
+</font>
