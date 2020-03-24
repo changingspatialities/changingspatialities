@@ -24,3 +24,11 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "https://gracious-gates-a838d5.netlify.com/ka/"
+  to = "https://gkankia.xyz/ka/"
+  status = 301
+  force = false
+  query = {path = ":path"}
+  conditions = {Language = ["ka"], Country = ["GE"], Role = ["admin"]}
