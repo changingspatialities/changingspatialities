@@ -1,7 +1,7 @@
 ---
-title: რამდენად ძვირია ქალაქად ცხოვრება მსოფლიოში?
-subtitle: გააჩნია რომელ ქალაქში
-summary: გააჩნია რომელ ქალაქში
+title: რამდენად ძვირია ქალაქად ცხოვრება?
+subtitle: ქალაქს გააჩნია
+summary: ქალაქს გააჩნია
 lastmod: 2020-02-13
 math: true
 diagram: true
@@ -28,6 +28,12 @@ image:
 <div>
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~hijomio9012/3.embed"></iframe>
 </div>
+
+
+<div>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~hijomio9012/6.embed"></iframe>
+</div>
+
 
 <font size="2">
     <b>გამოყენებული პროგრამები:</b> <i>Kepler.gl library in Python</i>  <br> <b>მონაცემები:</b> <a href="https://data.world/nasa/meteorite-landings"><i>NASA (Dataworld)</i></a>
