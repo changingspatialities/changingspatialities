@@ -6,8 +6,8 @@ lastmod: 2020-02-13
 math: true
 diagram: true
 image:
-  placement: 1
-  caption: ''
+  placement: 3
+  caption: 'ფოტო: **დავით კაკაბაძის** ნახატი'
 ---
 <style>
   img {
