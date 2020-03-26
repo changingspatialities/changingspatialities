@@ -26,7 +26,7 @@ image:
 ვიზუალიზაციის ბრაუზერის მთლიან გვერდზე სანახავად მიყევით ამ <a href="https://gmertometeorigvesrole.github.io/">ბმულს.</a></p>
 
 <div>
-<iframe width="100%" height="800" frameborder="0" scrolling="no" src="//plotly.com/~hijomio9012/3.embed"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~hijomio9012/3.embed"></iframe>
 </div>
 
 <font size="2">
