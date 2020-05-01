@@ -1,13 +1,13 @@
 ---
 title: COVID-19 
 subtitle: პანდემია ქართულ კონტექსტში 
-summary: პანდემიის პერიოდში გამოკვეტილი [სივრცითი] უთანასწორობა
-lastmod: 2020-03-10
+summary: პანდემიის პერიოდში გამოკვეთილი [სივრცითი] უთანასწორობა
+lastmod: 2020-05-01
 math: true
 diagram: true
 image:
-  placement: 
-  caption: ''
+  placement: 3
+  caption: 'მგზავრების დეზინფექცია მცხეთის რკინიგზის სადგურზე ესპანური გრიპის პანდემიისას. **წყარო**: საქართველოს ეროვნული არქივი'
 links:
   - icon_pack: fab
     icon: medium
@@ -74,12 +74,12 @@ links:
 </div>
 <div class="row">
     <div class="column" style="">
-     <p>{{< figure src="/img/tbs_accessibility.png" width=100% title="მნიშვნელოვანი სოციო-კულტურული ობიექტების მისაწვდომობა">}}</p>
+     <p>{{< figure src="/img/tbs_accessibility.png" width=100% title="მნიშვნელოვანი სოციო-ეკონომიკური ობიექტების მისაწვდომობა">}}</p>
   </div>
 </div>
 </body>
 </html>
 
 <font size="2">
-    <b>გამოყენებული პროგრამები:</b> <i>ArcMap; Python & Adobe Illustrator</i>  <br> <b>მონაცემები:</b> <a href="https://www.geostat.ge/ka"><i>საქსტატი</i></a>; <i>თბილისის შინამეურნეობების სატრანსპორტო მობილობის კვლევა, 2016</i>; <i>თბილისის მერია</i>
+    <b>გამოყენებული პროგრამები:</b> <i>ArcMap; Python & Adobe Illustrator</i>  <br> <b>მონაცემები:</b> <a href="https://www.geostat.ge/ka"><i>საქსტატი, 2014</i></a>; <i>თბილისის შინამეურნეობების სატრანსპორტო მობილობის კვლევა, 2016</i>; <i>თბილისის მერია</i>; <i>OSM</i>
 </font>
