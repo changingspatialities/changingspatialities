@@ -69,7 +69,7 @@ links:
 </div>
 <div class="row">
   <div class="column" style="">
-    <p>{{< figure src="/img/tbs_hh_survey - bivariate_v1.png" width=100% title="ფიზიკური და ვირტუალური მობილობის შესაძლებლობები თბილისში">}}</p>
+    <p>{{< figure src="/img/tbs_hh_survey - bivariate_v1.jpeg" width=100% title="ფიზიკური და ვირტუალური მობილობის შესაძლებლობები თბილისში">}}</p>
   </div>
 </div>
 <div class="row">
