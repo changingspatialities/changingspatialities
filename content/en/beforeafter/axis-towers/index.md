@@ -4,7 +4,7 @@ subtitle: Private capital against public good
 summary: The story of how private capital appropriated public space
 tags: []
 categories: []
-date: 2020-02-15
+date: 2020-06-15
 math: true
 diagram: true
 image:
