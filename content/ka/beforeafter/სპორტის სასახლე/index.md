@@ -4,7 +4,7 @@ subtitle: უკანასკნელი ათწლეულების �
 summary: უკანასკნელი ათწლეულების განვითარების ფიზიკური გამოსახულება
 tags: []
 categories: []
-date: 2020-03-13
+date: 2020-03-14
 lastmod: 2020-03-13
 math: true
 diagram: true
