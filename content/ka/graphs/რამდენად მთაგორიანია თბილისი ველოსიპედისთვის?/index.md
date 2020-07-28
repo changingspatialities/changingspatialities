@@ -29,7 +29,7 @@ links:
 
 <div class="row">
   <div class="column" style="">
-    <p>{{< figure src="/img/street_slopes_tbs_ka.jpeg" width=100% title="ქუჩების ზედაპირის დახრილობა (%) თბილისში">}}</p>
+    <p>{{< figure src="/img/street_slopes_tbs_ka.png" width=100% title="ქუჩების ზედაპირის დახრილობა (%) თბილისში">}}</p>
   </div>
 </div>
 
