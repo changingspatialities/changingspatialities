@@ -4,6 +4,7 @@ subtitle: ძვირადღირებული ინფრასტრუ
 summary: ძვირადღირებული ინფრასტრუქტურა და ბუნებრივი კატასტროფა
 tags: []
 categories: []
+date: 2020-07-28
 lastmod: 2020-07-23
 math: true
 diagram: true
