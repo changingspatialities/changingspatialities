@@ -11,15 +11,6 @@ links:
     name: თავდაპირველად გამოქვეყნდა ბლოგზე
     url: 'https://medium.com/profoundly-seen/python-affordable-housing-tbilisi-7d36fa6cc4f9'
 ---
-<style>
-  img {
-    transition:transform 0.25s ease;
-    filter: grayscale(100%);
-}
-  img:hover {
-    filter: grayscale(0);
-}
-</style>
 
 <center><h3>თვიური და დღიური გაქირავება ბინების ტიპის, რაიონების და საცხოვრებელი ფართის მიხედვით</h3></center>
 
