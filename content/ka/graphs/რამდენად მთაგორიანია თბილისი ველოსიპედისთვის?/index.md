@@ -2,6 +2,7 @@
 title: რამდენად მთაგორიანია თბილისი ველოსიპედისთვის? 
 subtitle: არც ისე!
 summary: არც ისე!
+date: 2020-07-27
 lastmod: 2020-07-28
 math: true
 diagram: true

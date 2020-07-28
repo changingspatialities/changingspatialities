@@ -2,6 +2,7 @@
 title: დემოგრაფია
 subtitle: მოსახლეობის უთანასწორო გეოგრაფია 
 summary: მოსახლეობის უთანასწორო გეოგრაფია
+date: 2020-04-09
 lastmod: 2020-04-10
 math: true
 diagram: true

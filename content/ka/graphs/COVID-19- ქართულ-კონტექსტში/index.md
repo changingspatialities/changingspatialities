@@ -2,6 +2,7 @@
 title: COVID-19 
 subtitle: პანდემია ქართულ კონტექსტში 
 summary: პანდემიის პერიოდში გამოკვეთილი [სივრცითი] უთანასწორობა
+date: 2020-04-30
 lastmod: 2020-05-01
 math: true
 diagram: true
