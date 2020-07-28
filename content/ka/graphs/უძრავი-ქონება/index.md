@@ -5,6 +5,9 @@ summary: Python და ხელმისაწვდომი საცხო�
 lastmod: 2020-03-10
 math: true
 diagram: true
+image:
+  placement: 3
+  caption: 'მრავალბინიანი საცხოვრებელი სახლი ნუცუბიძის პლატოზე. **წყარო**: Alex Schoelcher'
 links:
   - icon_pack: fab
     icon: medium
