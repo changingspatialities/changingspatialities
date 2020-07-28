@@ -2,7 +2,7 @@
 title: რამდენად მთაგორიანია თბილისი ველოსიპედისთვის? 
 subtitle: არც ისე!
 summary: არც ისე!
-lastmod: 2020-05-01
+lastmod: 2020-07-28
 math: true
 diagram: true
 image:
@@ -11,19 +11,9 @@ image:
 links:
   - icon_pack: fab
     icon: twitter
-    name: თავდაპირველად გამოქვეყნდა ბლოგზე
-    url: 'https://bit.ly/2VtVGNt'
+    name: თავდაპირველად გამოქვეყნდა ტვიტერზე
+    url: 'https://bit.ly/30Sopgy'
 ---
-<style>
-  img {
-    max-width: 1200px;
-    transition:transform 0.25s ease;
-    filter: grayscale(100%);
-}
-  img:hover {
-    filter: grayscale(0);
-}
-</style>
 <p align="justify">
 ამ ვიზუალებით, თბილისის კონტექსტში, ვცდილობთ ავხსნათ რამდენიმე სივრცითი ასპექტი, რაც ეპიდემიის გავრცელებისას და ასევე, მის შესაკავებლად მიღებული ზომების შედეგად გამოიკვეთა.
 დემოგრაფია, მოსახლეობის სიმჭიდროვე, კომპაქტური ურბანული გარემო, მობილობა და სასიცოცხლო და რელიგიური მნიშვნელობის ობიექტებზე ხელმისაწვდომობა განხილულია ადგილობრივ და გლობალურ კონტექსტში მათი აქტუალობით.
@@ -33,32 +23,7 @@ links:
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
 
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
-</style>
 </head>
 <body>
 
