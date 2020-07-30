@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'  # For a direct email link, use "mailto:me@gkankia.xyz".
+  link: "mailto:me@gkankia.xyz"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/gkankia
