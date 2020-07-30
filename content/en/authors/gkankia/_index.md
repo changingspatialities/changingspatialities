@@ -64,5 +64,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-I am currently pursuing a Master's degree in Urban and Regional Planning at Stockholm University. I also hold another Master's degree in planning from the University of Granada and have four years of working experience in the field in Georgian context. More specifically, using GIS and spatial modelling in planning projects. My research interests include mobility infrastructures, networks, segregation and planning practice. I have a strong interest in data analysis and visualization as well.
+<p align="justify">
+I am currently pursuing a Master's degree in Urban and Regional Planning at Stockholm University. I also hold another Master's degree in planning from the University of Granada and have four years of working experience in the field in Georgian context. More specifically, using GIS and spatial modelling in planning projects. My research interests include mobility infrastructures, networks, segregation and planning practice. I have a strong interest in data analysis and visualization as well.</p>
