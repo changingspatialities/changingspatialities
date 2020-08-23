@@ -12,7 +12,7 @@ image:
 links:
   - icon_pack: fab
     icon: twitter
-    name: Published first on Twitter
+    name: First published on Twitter
     url: 'https://bit.ly/30Sopgy'
 ---
 <p align="justify">
