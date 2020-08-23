@@ -1,14 +1,14 @@
 ---
 title: COVID-19 
 subtitle: Pandemic in Georgian Urban Context 
-summary: Pandemic in Georgian Urban Context
+summary: [Spatial] inequalities brought to light by the pandemic
 date: 2020-04-30
 lastmod: 2020-05-01
 math: true
 diagram: true
 image:
   placement: 3
-  caption: 'Disinfecting passengers at Mtsketa railway station during Spanish flu pandemic. **Source**: National Archives of Georgia'
+  caption: 'Disinfecting passengers at Mtskheta railway station during the Spanish flu pandemic. **Source**: National Archives of Georgia'
 links:
   - icon_pack: fab
     icon: medium
@@ -61,12 +61,12 @@ Demography, density, compact urban built-environment, mobility and access to ess
 </div>
 <div class="row">
   <div class="column" style="">
-    <p>{{< figure src="/img/tbs_hh_survey - bivariate_v1.jpg" width=100% title="Bivariate map of access to car and internet/work from home and physical work">}}</p>
+    <p>{{< figure src="/img/tbs_hh_survey - bivariate_v1.jpg" width=100% title="Bivariate maps of access to car (red gradient) and internet (blue gradient) [left] / office work (pink gradient) and physical work (turquoise gradient) [right]">}}</p>
   </div>
 </div>
 <div class="row">
     <div class="column" style="">
-     <p>{{< figure src="/img/tbs_accessibility.png" width=100% title="Accessibility to essential services and religious sites">}}</p>
+     <p>{{< figure src="/img/tbs_accessibility.png" width=100% title="Urban form (REACH Index) and accessibility to essential services (supermarkets and drug stores) and religious sites (Orthodox churches)">}}</p>
   </div>
 </div>
 </body>
