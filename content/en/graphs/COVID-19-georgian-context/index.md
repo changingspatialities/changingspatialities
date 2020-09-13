@@ -2,7 +2,6 @@
 title: COVID-19 
 subtitle: Pandemic in Georgian Urban Context 
 summary: [Spatial] inequalities brought to light by the pandemic
-date: 2020-04-30
 lastmod: 2020-05-01
 math: true
 diagram: true
