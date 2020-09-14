@@ -5,7 +5,7 @@ summary: კოლექტიურ ტრანზიტზე ორიენ
 tags: []
 categories: []
 date: 2020-09-13
-lastmod: 2020-09-13
+lastmod: 2020-09-14
 math: true
 diagram: true
 image:
