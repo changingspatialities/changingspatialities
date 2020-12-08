@@ -44,7 +44,7 @@ url_video: 'https://bit.ly/36Zk8fA'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'ფოტო: **სქრინი ფბ-დან**'
+  caption: 'ფოტო: **სქრინი ფეისბუქიდან**'
   focal_point: ""
   preview_only: false
 
@@ -65,9 +65,10 @@ projects: []
 **ვიდეოს შესახებ**
 <p align="justify">
     მოხსენება ჰაინრიხ ბიოლის სამხრეთ კავკასიის ოფისის მიერ ორგანიზებულ "მწვანე აკადემია 2020"-ზე პანდემიის ურბანულ ცხოვრებაზე ზეგავლენის შესახებ.
-    ვიდეოში მოკლედ ვსაუბრობ, როგორ შეიძლება შეუწყოს ხელი ქალაქის სიმჭიდროვემ ვირუსის გავრცელებას, მაგრამ ამავე დროს მოგვევლინოს ეპიდემიის მიერ გამოწვეული ზიანის შემცირების საუკეთესო საშუალებად. 
+    ვიდეოში მოკლედ ვსაუბრობ, როგორ შეიძლება შეუწყოს ხელი ქალაქის სიმჭიდროვემ ვირუსის გავრცელებას. ასევე, ქალაქში არსებული უთანასწორობის რამდენიმე ასპექტზე, რომელიც ეპიდემიის დროს განსაკუთრებით თვალსაჩინო გახდა.
+    ზოგადად, მიუხედავად იმისა რომ ქალაქებში, მოსახლეობის, ურბანული ფუნქციებისა და შესაბამისად, ურთიერთკავშირის მაღალი სიმჭიდროვის შედეგად უფრო მარტივია გავრცელდეს ვირუსი, საქალაქო სივრცეები გამოწვეული უარყოფითი შედეგების მიტიგაციისთვისაც საუკეთესო ადგილებია. ფიზიკური სიახლოვის საჭიროება სასიცხოცხლოდ მნიშნველოვან ობიექტებსა და სარეკრეაციო სივრცეებზე პანდემიის პირობებში განსაკუთრებით გამოჩნდა.
 </p>
 
 <div>
-    <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fhbf.caucasus%2Fvideos%2F2590064291285733%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fhbf.caucasus%2Fvideos%2F2590064291285733%2F&show_text=false&width=800" width="800" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 </div>
