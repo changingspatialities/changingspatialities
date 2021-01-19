@@ -64,6 +64,6 @@ projects: []
 ---
 **About the Talk**
 <p align="justify">
-    I had a pleasure to talk about my recent <a href="https://gkankia.xyz/publication/mobility-infrastructure-and-idps/">research</a> at a seminar series held regularly by the Anthropology Department at Ilia State University. 
+    I had the privilege to talk about my recent <a href="https://gkankia.xyz/publication/mobility-infrastructure-and-idps/">research</a> at a seminar series held regularly by the Anthropology Department at Ilia State University. 
     We briefly touched upon how the assemblage of mobility infrastructures and physical access to them may have significant impact on the everyday lives of people at the urban fringe.
 </p>
