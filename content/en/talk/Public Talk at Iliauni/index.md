@@ -1,12 +1,12 @@
 ---
-title: "How Pandemics Change Cities"
+title: "Research Talk at Iliauni"
 authors:
 - gkankia
 publishDate: 2020-11-05 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2020-11-05T00:00:00Z"
+# publishDate: "2020-11-05"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
