@@ -100,7 +100,7 @@
   translation: ყველა ფოტო
 
 - id: more_talks
-  translation: ყველა საჯარო გამოსვლა
+  translation: ყველა საჯარო მოხსენება
 
 - id: more_publications
   translation: ყველა პუბლიკაცია
@@ -186,7 +186,7 @@
   translation: პუბლიკაციები
 
 - id: talks
-  translation: საჯარო გამოსვლები
+  translation: საჯარო მოხსენება
 
 - id: projects
   translation: პროექტები
