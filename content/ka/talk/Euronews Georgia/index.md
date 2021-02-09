@@ -2,7 +2,7 @@
 title: "Euronews Georgia ჩვენი ვიზუალიზაციის შესახებ"
 authors:
 - gkankia
-publishdate: 2020-02-09T22:00:00Z
+publishdate: 2021-02-09T22:00:00Z
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
