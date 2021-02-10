@@ -1,5 +1,5 @@
 ---
-title: "მობილობის სოციალური ინფრასტრუქტურა და საცხოვრებელი სივრცეები"
+title: "მობილობის პოლიტიკა თბილისში"
 authors:
 - gkankia
 publishDate: 2021-02-10 
@@ -15,14 +15,14 @@ doi: ""
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Heinrich Böll Stiftung"
+publication: ""
 publication_short: ""
 
 abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: ეს სტატია განიხილავს ვარკეთილში, თბილისის ზღვის ახალი ქალაქში მცხოვრებ დევნილთა დამოკიდებულებას მობილობის ინფრასტრუქტურაზე.
+summary: რა იცვლება და რა საფრთხეები იკვეთება?
 
 tags:
 - კვლევა
@@ -31,15 +31,15 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
+# - name: "პუბლიკა"
+#   url: "https://publika.ge/article/mobilobis-politika-tbilisshi-ra-icvleba-da-ra-safrtkheebi-ikveteba/?fbclid=IwAR0MhBE_R23-he_txav0f5vyC5NEEsUE1Sso3h0xHozQnyGWpdJL_6UD1Po"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://publika.ge/article/mobilobis-politika-tbilisshi-ra-icvleba-da-ra-safrtkheebi-ikveteba/?fbclid=IwAR0MhBE_R23-he_txav0f5vyC5NEEsUE1Sso3h0xHozQnyGWpdJL_6UD1Po'
 url_video: ''
 
 # Featured image
