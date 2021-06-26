@@ -24,7 +24,7 @@ education:
   courses:
   - course: MSc in Urban and Regional Planning
     institution: Stockholm University, Sweden
-    year: current
+    year: 2021
   - course: MA in Urban Planning 
     institution: Universidad de Granada, Spain
     year: 2015
@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 <p align="justify">
-I am currently doing a Master's degree in Urban and Regional Planning at Stockholm University. I hold another Master's degree in planning from the University of Granada (because, why not?) and have four years of working experience in the field in Georgian context, mostly using GIS and spatial modelling in planning projects. My research interests include mobility infrastructures, networks, segregation and planning practice. I have a strong interest in data analysis and visualization as well and am running a very cool project, such as <a href="https://medium.com/profoundly-seen">z.axıs</a>. Drop an email for possible collaborations. </p>
+I have recently graduated from a master's degree programme in Urban and Regional Planning at Stockholm University. I hold another Master's degree in planning from the University of Granada. As for the experience in the field, I have worked for a few years on spatial planning projects and research initiatives in Georgian context, mostly using GIS and spatial modelling. My research interests include mobility infrastructures, networks, segregation and planning practice. I have a strong interest in data analysis and visualization as well and am running a very cool project, such as <a href="https://medium.com/profoundly-seen">z.axıs</a>. Drop an email for a possible collaboration. </p>
