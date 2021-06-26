@@ -1,18 +1,18 @@
 ---
-title: "Social Infrastructure of Mobility and Residential Spaces"
+title: "Stockholm’s New Golden Bridge: A material infrastructure, fluid assemblage or megaproject?"
 authors:
 - gkankia
-publishDate: 2020-01-17
+publishDate: 2021-06-28
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2020-02-18T00:00:00Z"
+# publishDate: "2021-06-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Heinrich Böll Stiftung"
@@ -32,14 +32,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'http://bit.ly/3b0UBSp'
+url_pdf: 'https://bit.ly/sthlmgldnbrg'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'http://bit.ly/38N7IVK'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
