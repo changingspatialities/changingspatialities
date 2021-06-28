@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Heinrich Böll Stiftung"
+publication: ""
 publication_short: ""
 
 abstract:
