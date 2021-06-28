@@ -23,11 +23,12 @@ abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: This research deals with the everyday dependence on mobility infrastructures from the IDPs' perspective in Tbilisi.
+summary: A material infrastructure, fluid assemblage or megaproject?
 
 tags:
 - Research
 - Infrastructure
+- Thesis
 featured: false
 
 # links:
@@ -45,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Photo credits: **Tatia Kinkladze**'
+  caption: 'Photo credits: **SKANSKA (2020)**'
   focal_point: ""
   preview_only: false
 
