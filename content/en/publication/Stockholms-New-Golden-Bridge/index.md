@@ -21,8 +21,6 @@ publication_short: ""
 
 abstract:
 
-tested abstract
-
 # Summary. An optional shortened abstract.
 summary: A material infrastructure, fluid assemblage or megaproject?
 
@@ -67,7 +65,7 @@ projects: []
 ---
 **Abstract**
 <p align="justify">
-    Mobility infrastructures bear a significant impact on the livelihoods of [urban] residents and multiple processes of social engagement. However, this can be hindered by the arrangement of networked infrastructures solely to serve the needs of select few and thus, further deepen social disconnection for vulnerable groups of urban residents.</p>
+    The recent addition to Stockholm’s built environment in the shape of the new Slussen bridge, or Guldbron as most locals call it, has been both a source of controversy and admiration. This reaction is typical of any infrastructure that reshapes our surroundings. However, this interaction is not unidirectional. Similar projects may be affected by the very relations they might trigger in the first place. Building upon the conjunction of crucial concepts from actor-network theory and assemblage thinking, this study intends to identify the co-producing nature of the bridge as a technical artefact and the relations surrounding the project.</p>
  <p align="justify">   
-    Building upon the theoretical framework of the Actor-Network theory, this article (in Georgian) seeks to understand the everyday dependence on mobility infrastructures of the IDPs (Internally Displaced Persons) living in the government-allocated residential buildings in a privately-built new neighbourhood in Varketili, at the outskirts of Tbilisi (Georgia). Using unstructured, narrative interviews and ethnography methods of observation throughout two weekends in June, 2019 the research identifies the critical importance of the proper transport linkages for this group of population and everyday peculiarities associated with the use of mobility infrastructures.
+    To that end, I employ a qualitative research technique combining various methods of interviews and observation. The research primarily identifies the desired nature of the bridge and its ability to stabilize relations as a heterogeneous assemblage. Ultimately, the everchanging state of affairs or fluid character of this piece of infrastructure is discussed. The thesis concludes by arguing that the exploration of similar projects from a relational perspective challenges the conceptualization of megaprojects as taken- for-granted entities. Such an understanding brings to the forefront the crucial importance of interactions to define whether a project can be considered as ‘mega’, as opposed to employing a prescribed set of criteria.
 </p>
