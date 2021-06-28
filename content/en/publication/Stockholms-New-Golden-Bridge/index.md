@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Stockholm University, Department of Human Geography"
 publication_short: ""
 
 abstract:
