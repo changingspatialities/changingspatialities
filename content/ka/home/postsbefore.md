@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "ადრე და ახლა"
 subtitle = "**სივრცითი ცვლილებების ანთოლოგია და უფლება ქალაქზე** - ეს კრებული თავს უყრის ქალაქში მომხდარ სივრცით ცვლილებებს კერძო ინტერესების სასარგებლოდ [და საზოგადოებრივი ინტერესის ხარჯზე]"
