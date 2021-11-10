@@ -11,32 +11,32 @@
 [[main]]
   name = "Before and After"
   url = "#postsbefore"
-  weight = 20
+  weight = 70
 
 [[main]]
   name = "Graphs"
   url = "#postsgraphs"
-  weight = 30
+  weight = 50
 
 [[main]]
   name = "Interactive Visuals"
   url = "#postsinteractive"
-  weight = 40
+  weight = 60
 
 [[main]]
   name = "Publication[s]"
   url = "#publications"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "Talks"
   url = "#talks"
-  weight = 60
+  weight = 30
   
 [[main]]
   name = "About Me"
   url = "#about"
-  weight = 70
+  weight = 20
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
