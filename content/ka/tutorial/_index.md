@@ -1,10 +1,10 @@
 ---
-title: Courses
+title: თბილისის ისტორიული ზრდა
 layout: docs  # Do not modify.
 
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "vake3d.jpg"
 ---
 
