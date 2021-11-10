@@ -39,8 +39,8 @@
   weight = 20
 
 [[main]]
-  name = "Courses"
-  url = "courses/"
+  name = "GIS"
+  url = "tutorial/"
   weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
