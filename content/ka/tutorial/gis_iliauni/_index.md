@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: თბილისი, როგორც ურბანული თანაკვეთის სივრცე
+linktitle: 
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 
 # Page metadata.
-title: მიმოხილვა
+title: თბილისი, როგორც ურბანული თანაკვეთის სივრცე
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
