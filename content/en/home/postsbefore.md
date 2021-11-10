@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Before and After"
 subtitle = "**The anthology of spatial change and the right to the city** - Documenting urban spatial changes in favor of select few to the detriment of public interests"
