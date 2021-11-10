@@ -12,7 +12,7 @@ image:
 
 <p align="justify">
 
-This 3D interactive animation of Mount Kazbegi (highest peak of Georgia) was made using Mapbox.
+This 3D interactive animation of Mount Kazbegi (3rd highest peak of Georgia) was made using Mapbox.
 </p>
 
 <p align="justify">
