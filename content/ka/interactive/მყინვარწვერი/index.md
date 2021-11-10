@@ -2,6 +2,7 @@
 title: მყინვარწვერი 3D
 subtitle: ანიმაცია
 summary: ანიმაცია
+lastmod: 2021-08-29
 math: true
 diagram: true
 image:
