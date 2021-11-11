@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: მიმოხილვა
+    name: შესავალი
     weight: 1
 ---
 
@@ -35,12 +35,13 @@ QGIS მუშაობს Windows, macOS, Linux და Android პლატფ�
 
 საინსტალაციო ფაილები:  
 \* Windows სისტემისთვის იხილეთ <a href="https://qgis.org/downloads/">აქ</a> 
+  
 macOS სისტემისთვის იხილეთ <a href="https://www.kyngchaos.com/software/archive/qgis/">აქ</a>
 
 \* შენიშვნა  
 Windows სისტემისთვის განკუთვნილ გვერდზე გადასვლისას არ დაგაბნიოთ საინსტალაციო ფაილის სახელწოდებამ. სასურველი ფაილის სახელი `QGIS-OSGeo4W` ამ ფორმით გვხვდება, რომელსაც მოსდევს ვერსიის ნომერი, მაგალითად `3.16.7-1` და ბოლოვდება `.exe` ან `msi` გაფართოებით.
 
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
+მიუხედავად იმისა, პროგრამის ინსტალაცია მარტივია და არანაირი დამატებითი მანიპულაცია არ სჭირდება, ვიდეო ინსტრუქცია შეგიძლიათ იხილოთ <a href="https://www.youtube.com/watch?v=0NDm4O3jZbU">აქ</a>
 
 ## Update site menu
 
