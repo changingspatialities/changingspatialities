@@ -34,37 +34,10 @@ QGIS ან Quantum GIS წარმოადგენს საყოველ�
 QGIS მუშაობს Windows, macOS, Linux და Android პლატფორმებზე. სასურველია, ამ კონკრეტული დავალებისთვის გადმოვწეროთ და დავაყენოთ ნებისმიერი ვერსია QGIS 3.16.0 ან ზემოთ. უახლესი, QGIS 3.22 ვერსიის დაყენებისგან უმჯობესია თავი შევიკავოთ, რადგან ახალი რელიზია და შესაძლებელია ჯერ კიდევ არ იყოს სრულყოფილად სანდო. 
 
 საინსტალაციო ფაილები:  
-\* Windows სისტემისთვის იხილეთ <a href="https://qgis.org/downloads/">აქ</a> 
-  
+\* Windows სისტემისთვის იხილეთ <a href="https://qgis.org/downloads/">აქ</a>  
 macOS სისტემისთვის იხილეთ <a href="https://www.kyngchaos.com/software/archive/qgis/">აქ</a>
 
 \* შენიშვნა  
-Windows სისტემისთვის განკუთვნილ გვერდზე გადასვლისას არ დაგაბნიოთ საინსტალაციო ფაილის სახელწოდებამ. სასურველი ფაილის სახელი `QGIS-OSGeo4W` ამ ფორმით გვხვდება, რომელსაც მოსდევს ვერსიის ნომერი, მაგალითად `3.16.7-1` და ბოლოვდება `.exe` ან `msi` გაფართოებით.
+Windows სისტემისთვის განკუთვნილ გვერდზე გადასვლისას არ დაგაბნიოთ საინსტალაციო ფაილის სახელწოდებამ. სასურველი ფაილის სახელი `QGIS-OSGeo4W` ამ ფორმით გვხვდება, რომელსაც მოსდევს ვერსიის ნომერი, მაგალითად `3.16.7-1` და ბოლოვდება `.exe` ან `.msi` ფორმატის აღმნიშნველით.
 
 მიუხედავად იმისა, პროგრამის ინსტალაცია მარტივია და არანაირი დამატებითი მანიპულაცია არ სჭირდება, ვიდეო ინსტრუქცია შეგიძლიათ იხილოთ <a href="https://www.youtube.com/watch?v=0NDm4O3jZbU">აქ</a>
-
-## Update site menu
-
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
-
-For example, if you delete this folder, you can remove the following from your menu configuration:
-
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
-
-## Update the docs menu
-
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
