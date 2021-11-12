@@ -1,20 +1,20 @@
 ---
-title: ზოგადი 
-linktitle: Tips 1-2
+title: ზოგადი საკითხები 
+linktitle: მონაცემების ტიპების შესახებ
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   example:
-    parent: Example Topic
+    parent: მონაცემების ტიპების შესახებ
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
 
-ამ ნაწილში ზოგადად გავეცნობით გეოგრაფიული მონაცემების ტიპებს, მათ შესაძლებლობებსა და გამოყენების ფორმებს. 
+ამ ნაწილში გავეცნობით გეოგრაფიული მონაცემების კონკრეტულ ტიპებს, მათ შესაძლებლობებსა და გამოყენების ფორმებს. 
 
 ## Tip 1
 
