@@ -75,10 +75,10 @@ weight: 1
 
 <div class="row">
   <div class="column" style="">
-    <p>{{< figure src="/img/points-vector-300x205.png" width=50% title="სურ. 1.1.ა. წერტილები<br>წყარო: gisgeography.com" >}}</p>
+    <p>{{< figure src="/img/points-vector-300x205.png" width=150 title="სურ. 1.1.ა. წერტილები<br>წყარო: gisgeography.com" >}}</p>
   </div>
   <div class="column" style="">
-    <p>{{< figure src="/img/point_feature.png" width=50% title="სურ. 1.1.ბ. წერტილოვანი მონაცემები აღწერს კონკრეტული ფიზიკური ერთეულის ლოკაციას სივრცეში <br>წყარო: qgis დოკუმენტაცია ">}}</p>
+    <p>{{< figure src="/img/point_feature.png" width=150 title="სურ. 1.1.ბ. წერტილოვანი მონაცემები აღწერს კონკრეტული ფიზიკური ერთეულის ლოკაციას სივრცეში <br>წყარო: qgis დოკუმენტაცია ">}}</p>
   </div>
 </div>
 </body>
