@@ -16,15 +16,67 @@ weight: 1
 
 ამ ნაწილში გავეცნობით სივრცითი მონაცემების ტიპებს, მათი შენახვისა და გაზიარების ფორმებს. ასევე, მოკლედ შევეხებით გეორეფერენსირების, კოორდინატთა სისტემის და სხვა მნიშვნელოვანი ტერმინების მნიშვნელობას.
 
-## ვექტორული მონაცემები
+## 1. ვექტორული მონაცემები
 
-ვექტორული მონაცემები ეყრდნობა თანმიმდევრული წერტილების (ვერტექსი) და ხაზების წყობას. 
+ვექტორული მონაცემები წარმოადგენს ბუნებრივი გარემოს, ლანდშაფტისა და მისი ელემენტების რეპრეზენტაციის საშუალებას. იგი ეყრდნობა <b>თანმიმდევრული წერტილების (ვერტექსი)</b> და <b>ხაზების</b> წყობას. ვექტორული მონაცემები ასევე წარმოდგენილია <b>პოლიგონების</b> სახით. პოლიგონი წარმოადგენს წერტილებისა (ვერტექსები) და ხაზების ერთობლიობას და ქმნის შეკრულ სივრცით ერთეულს. 
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column" style="">
+    <p>{{< figure src="/img/tbilisi_monthly_rent_bar_1.jpg" width=360 title="თვიური განცხადებების დისტრიბუცია <br> ბინის ტიპის და რაიონის მიხედვით">}}</p>
+  </div>
+  <div class="column" style="">
+    <p>{{< figure src="/img/tbilisi_daily_rent_bar_1.jpg" width=360 title="დღიური განცხადებების დისტრიბუცია <br> ბინის ტიპის და რაიონის მიხედვით" >}}</p>
+  </div>
+</div>
+</body>
+</html>
+
+### 1.1. წერტილები (ვერტექსები)
+
+
 
 ## რასტრული მონაცემები
 
 Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
 
 ## განსხვავება ვექტორულ და რასტრულ მონაცემებს შორის
+
+## 3D
+
+Mesh, TIN, xyz 
 
 ## გეორეფერენსირება 
 
