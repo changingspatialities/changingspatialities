@@ -20,7 +20,24 @@ weight: 1
 
 ვექტორული მონაცემები წარმოადგენს ბუნებრივი გარემოს, ლანდშაფტისა და მისი ელემენტების რეპრეზენტაციის საშუალებას. იგი ეყრდნობა <b>თანმიმდევრული წერტილების (ვერტექსი)</b> და <b>ხაზების</b> წყობას. ვექტორული მონაცემები ასევე წარმოდგენილია <b>პოლიგონების</b> სახით. პოლიგონი წარმოადგენს წერტილებისა (ვერტექსები) და ხაზების ერთობლიობას და ქმნის შეკრულ სივრცით ერთეულს. 
 
-#### 1.1. წერტილები (ვერტექსები)
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+
+<div class="row">
+  <div class="column" style="">
+    <p>{{< figure src="/img/landscape_geometry.jpeg" width=100% title="სურ. 1.ა. ბუნებრივი ლანდშაფტი წარმოდგენილი GIS გარემოში. მდინარეები (ლურჯი) და გზები (მწვანე) წარმოდგენილია ხაზების, ხეები წერტილების (წითელი), ხოლო ნაგებობები პოლიგონის (თეთრი) სახით.<br>წყარო: qgis დოკუმენტაცია">}}</p>
+  </div>
+</div>
+
+</body>
+</html>
+
+### 1.1. წერტილები (ვერტექსები)
 
 
 <!DOCTYPE html>
@@ -58,16 +75,16 @@ weight: 1
 
 <div class="row">
   <div class="column" style="">
-    <p>{{< figure src="/img/tbilisi_monthly_rent_bar_1.jpg" width=360 title="თვიური განცხადებების დისტრიბუცია <br> ბინის ტიპის და რაიონის მიხედვით">}}</p>
+    <p>{{< figure src="/img/points-vector-300x205.png" width=360 title="სურ. 1.1.ა. წერტილები<br>წყარო: gisgeography.com" >}}</p>
   </div>
   <div class="column" style="">
-    <p>{{< figure src="/img/tbilisi_daily_rent_bar_1.jpg" width=360 title="დღიური განცხადებების დისტრიბუცია <br> ბინის ტიპის და რაიონის მიხედვით" >}}</p>
+    <p>{{< figure src="/img/point_feature.png" width=360 title="სურ. 1.1.ბ. წერტილოვანი მონაცემები აღწერს კონკრეტული ფიზიკური ერთეულის ლოკაციას სივრცეში <br>წყარო: qgis დოკუმენტაცია ">}}</p>
   </div>
 </div>
 </body>
 </html>
 
-## რასტრული მონაცემები
+## 1.2. რასტრული მონაცემები
 
 Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
 
