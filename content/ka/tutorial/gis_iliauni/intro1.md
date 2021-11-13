@@ -30,7 +30,7 @@ weight: 1
 
 <div class="row">
   <div class="column" style="">
-    <p>{{< figure src="/img/landscape_geometry.jpeg" width=100% title="სურ. 1.ა. ბუნებრივი ლანდშაფტი წარმოდგენილი GIS გარემოში. მდინარეები (ლურჯი) და გზები (მწვანე) წარმოდგენილია ხაზების, ხეები წერტილების (წითელი), ხოლო ნაგებობები პოლიგონის (თეთრი) სახით.<br>წყარო: qgis დოკუმენტაცია">}}</p>
+    <p>{{< figure src="/img/landscape_geometry.jpeg" width=100% title="სურ. 1.ა. როგორ გადაითარგმნებოდა მოცემული ბუნებრივი ლანდშაფტი წარმოდგენილი GIS გარემოში. მდინარეები (ლურჯი) და გზები (მწვანე) წარმოდგენილია ხაზების, ხეები წერტილების (წითელი), ხოლო ნაგებობები პოლიგონების (თეთრი) სახით.<br>წყარო: qgis დოკუმენტაცია">}}</p>
   </div>
 </div>
 
@@ -75,10 +75,10 @@ weight: 1
 
 <div class="row">
   <div class="column" style="">
-    <p>{{< figure src="/img/points-vector-300x205.png" width=360 title="სურ. 1.1.ა. წერტილები<br>წყარო: gisgeography.com" >}}</p>
+    <p>{{< figure src="/img/points-vector-300x205.png" width=50% title="სურ. 1.1.ა. წერტილები<br>წყარო: gisgeography.com" >}}</p>
   </div>
   <div class="column" style="">
-    <p>{{< figure src="/img/point_feature.png" width=360 title="სურ. 1.1.ბ. წერტილოვანი მონაცემები აღწერს კონკრეტული ფიზიკური ერთეულის ლოკაციას სივრცეში <br>წყარო: qgis დოკუმენტაცია ">}}</p>
+    <p>{{< figure src="/img/point_feature.png" width=50% title="სურ. 1.1.ბ. წერტილოვანი მონაცემები აღწერს კონკრეტული ფიზიკური ერთეულის ლოკაციას სივრცეში <br>წყარო: qgis დოკუმენტაცია ">}}</p>
   </div>
 </div>
 </body>
