@@ -1,6 +1,6 @@
 ---
 title: ტუტორიალი - ნაწილი 3
-linktitle: მონაცემების შექმნა და ჩასწორება
+linktitle: 3. მონაცემების შექმნა და ჩასწორება
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -206,7 +206,7 @@ weight: 3
 
 <div class="row">
   <div class="column" style="">
-    <p>{{< figure src="/img/university2.png" width=50% title="<b>სურ. 3.3.ბ.</b> უნივერსიტეტის შენობის ერთი ეზო ამოჭრილია საერთო პოლიგონიდან.">}}</p>
+    <p>{{< figure src="/img/university2.png" width=50% title="<b>სურ. 3.3.გ.</b> უნივერსიტეტის შენობის ერთი ეზო ამოჭრილია საერთო პოლიგონიდან.">}}</p>
   </div>
 </div>
 
