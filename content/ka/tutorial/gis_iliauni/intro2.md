@@ -102,7 +102,7 @@ QGIS და ზოგადად, GIS პროგრამების ფუ�
 
 <div class="row">
   <div class="column" style="">
-    <p>{{< figure src="/img/11-open raster 2.png" width=50% title="<b>სურ. 2.3.ა.</b> ვაკლიკებთ მონიშნულ ღილაკებზე.">}}</p>
+    <p>{{< figure src="/img/11-open raster 2.png" width=50% title="<b>სურ. 2.3.ბ.</b> ვაკლიკებთ მონიშნულ ღილაკებზე.">}}</p>
   </div>
 </div>
 
