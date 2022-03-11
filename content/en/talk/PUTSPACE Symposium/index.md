@@ -64,8 +64,9 @@ projects: []
 ---
 **About the Talk**
 <p align="justify">
-    I had the privilege to attend the #PUTSPACE symposium in Görlitz (Germany) hosted by the Leibniz Institute of Regional Geography (IfL), October 23-27th. The symposium aimed to rethink the urban public transport as an everyday public space. A number of workshops on experimental methodological approaches enabled participants to tap into the different aspects of urban everyday living through mobility infrastructure. 
+    I had the privilege to attend the #PUTSPACE symposium in Görlitz (Germany) hosted by the Leibniz Institute of Regional Geography (IfL), October 23-27th. The symposium aimed to rethink the urban public transport as an everyday public space. A number of workshops on experimental methodological approaches enabled participants to tap into the different aspects of urban everyday living through mobility infrastructure.</p> 
 
-    On the last day of the symposium, along with the IfL researcher, Dr. Lela Rekhviashvili, I discussed the paradigm shift that has been recently observed in Tbilisi urban mobility policy and infrastructure investment. In light of the restrictions on urban public transport in Tbilisi due to the spread of the COVID-19, I spoke about the negative impact of such measures on the daily lives of the most vulnerable groups of population. To make my point, I presented a number of visuals shedding light on the socio-economic nature of public transit and the socio-spatial inequality throughout the city through the lens of urban mobility. 
-</p>
+<p align="justify">
+    On the last day of the symposium, along with the IfL researcher, Dr. Lela Rekhviashvili, I discussed the paradigm shift that has been recently observed in Tbilisi urban mobility policy and infrastructure investment. In light of the restrictions on urban public transport in Tbilisi due to the spread of the COVID-19, I spoke about the negative impact of such measures on the daily lives of the most vulnerable groups of population. To make my point, I presented a number of visuals shedding light on the socio-economic nature of public transit and the socio-spatial inequality throughout the city through the lens of urban mobility.</p>
+    
 <p>{{< figure src="/img/photo.jpeg" width=100% title="Presenting at the symposium - photo courtesy: T. Peikrishvili">}}</p>
