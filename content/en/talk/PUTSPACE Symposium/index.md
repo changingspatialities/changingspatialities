@@ -15,7 +15,7 @@ doi: ""
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "PUTSPACE"
 publication_short: ""
 
 abstract:
