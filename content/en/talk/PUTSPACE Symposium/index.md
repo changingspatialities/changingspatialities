@@ -22,7 +22,7 @@ abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: Internationa Research Symposium on Public Transport as Public Space.
+summary: International Research Symposium on Public Transport as Public Space.
 
 tags:
 - Public Talk
