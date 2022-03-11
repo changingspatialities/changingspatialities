@@ -1,18 +1,18 @@
 ---
-title: "PUTSPACE Research Symposium"
+title: "#PUTSPACE Research Symposium"
 authors:
 - gkankia
-publishDate: 2022-11-03
+publishDate: 2022-11-03 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2020-02-18T00:00:00Z"
+# publishDate: "2020-11-05"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+# publication_types: [""]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -26,7 +26,7 @@ summary: Internationa Research Symposium on Public Transport as Public Space.
 
 tags:
 - Public Talk
-- Cities
+- Research
 featured: false
 
 # links:
@@ -44,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Photo: **PUTSPACE**'
+  caption: 'Photo: **PUTSPACE Symposium**'
   focal_point: ""
   preview_only: false
 
@@ -60,7 +60,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+# slides: ""
 ---
 **About the Talk**
 <p align="justify">
@@ -68,3 +68,6 @@ projects: []
 
 <p align="justify">
     On the last day of the symposium, along with the IfL researcher, Dr. Lela Rekhviashvili, I discussed the paradigm shift that has been recently observed in Tbilisi urban mobility policy and infrastructure investment. In light of the restrictions on urban public transport in Tbilisi due to the spread of the COVID-19, I spoke about the negative impact of such measures on the daily lives of the most vulnerable groups of population. To make my point, I presented a number of visuals shedding light on the socio-economic nature of public transit and the socio-spatial inequality throughout the city through the lens of urban mobility.</p>
+
+<div>
+    <img src="/img/photo.jpeg" width=100% title="Presenting at the symposium - photo courtesy: T. Peikrishvili"></div>
