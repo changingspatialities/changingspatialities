@@ -2,7 +2,7 @@
 title: "#PUTSPACE Research Symposium"
 authors:
 - gkankia
-publishDate: 2022-11-02 
+publishDate: 2022-11-03 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
