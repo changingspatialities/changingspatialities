@@ -39,8 +39,8 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.radiotavisupleba.ge/a/31936837.html'
-url_video: ''
+url_source: ''
+url_video: 'https://www.radiotavisupleba.ge/a/31936837.html'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
