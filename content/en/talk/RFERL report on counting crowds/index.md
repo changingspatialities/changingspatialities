@@ -65,8 +65,8 @@ projects: []
 ---
 **The Documentary**
 <p align="justify">
-    In this documentary, prepared by RFE/RL Tbilisi office, I briefly overview the history of urban protests in central squares and avenues in the city, while simultanouesly observing human interaction with the built environment. The documentary is built around the narrative of how to count the number of demonstrators with as much accuracy as possible and what methodological considerations need to be taken into account.</p>
-    <p align="justify">Overall, the shooting took 4 days and culminates with our observation of July 3rd, 2022 protest gathering to demand Georgia's European integration. Throughout the whole time, observing the issue and going deeper into the topic turned out to be quite an interesting and intriguing experience. Some very important aspects of human-space interaction, power relations, and individual experiences have emereged as key factors that determine how successfull certain manifestations can be eventually and how overall process of citizen engagement in politics and governance takes shape.
+    In this documentary, prepared by RFE/RL Tbilisi office, I briefly overview the history of urban protests on central squares and avenues of the city, while simultanouesly observing human interaction with the built environment. The documentary is built around the narrative of how to count the number of demonstrators with as much accuracy as possible and what methodological considerations need to be taken into account.</p>
+    <p align="justify">Overall, the shooting took 4 days culminating with our observation of July 3, 2022 protest gathering to demand Georgia's European integration. Throughout the whole time, observing the issue and going deeper into the topic turned out to be quite an interesting and intriguing experience. Some very important aspects of human-space interaction, power relations, and individual experiences have emereged as key factors that determine how successfull certain manifestations can be eventually and how the overall process of citizen engagement in politics and governance takes shape.
 </p>
 
 <div>
