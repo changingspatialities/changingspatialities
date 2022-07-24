@@ -22,7 +22,7 @@ abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: A short documentary by RFE/RL where I talk about observing human behaviour with the built environment and the methodology to count crowds at large gatherings.
+summary: In this short documentary I observe human behaviour in the built environment and talk about the methodology on how to count crowds.
 
 tags:
 - Public Talk
