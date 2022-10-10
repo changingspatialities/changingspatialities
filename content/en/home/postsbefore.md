@@ -36,7 +36,7 @@ subtitle = "**The anthology of spatial change and the right to the city** - Docu
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
