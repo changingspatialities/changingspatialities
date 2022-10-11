@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-# role: Urban and Regional Planning
+role: Urban Geographer and Planner
 
 # Organizations/Affiliations
 organizations:
-- name: Stockholm University
+- name: 
   url: "https://www.su.se/english/search-courses-and-programmes/smamo-1.411370"
 
 # Short bio (displayed in user profile at end of posts)
@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 <p align="justify">
-Last year I graduated from a master's degree programme in Urban and Regional Planning at Stockholm University. I hold another Master's degree in planning from the University of Granada. As for the experience in the field, I have worked for a few years on spatial planning projects and research initiatives in Georgian context, mostly using GIS and spatial modelling. My research interests include mobility infrastructures, networks, segregation and planning practice. I have a strong interest in data analysis and visualization as well and am running a very cool project, such as <a href="https://zaxis.ge/en-giorgi">z.axıs</a>. Drop an email for a possible collaboration. </p>
+  Urban planning and geography graduate with more than 5 years of practical experience. </p> <p align="justify"> I have worked on numerous spatial planning and research projects, applying both quantitative and qualitative methods. While most of the my work is located in the Georgian socio-spatial context, from my previous studies and fellowships I have gained valuable insights into the urban and regional development patterns in Europe, USA and Latin America. I have consulted for international organizations, including <b>The World Bank </b> and the <b> Asian Development Bank</b>.</p> <p align="justify"> My researh interests range from the exploration of the fluidities of urban space and human bodies, the socio-material nature of the built environment and the everyday practices of urban living, to planning practices and urban policy-making. I believe in dense, human-scale and walkable communities.</p> <p align="justify"> In my previous work I have focused on urban analytics, such as accessibility and sustainable mobility, land-use change, real estate analysis and segregation. I have conducted several workshops on open-source and participatory mapping, data analysis and visualization using GIS, Python and other spatial modelling and visualization tools.</p> <p align="justify"> To encapsulate all of the above, I have co-founded and co-run a data visualization and analysis project <a href="https://zaxis.ge/">Z.axis</a> with my fellows. The project aims to bring data visualization and analytics tools closer to the general public and explain more thoroughly some of the complex societal processes and changes we go through on a daily basis.</p><p align="justify"> I try to make or better, learn how to make pretty-looking maps and visuals in my spare time. I am always open for an interesting and challenging collaboration, both through the <a href="mailto:giorgi@zaxis.ge"> organization</a> and individually.</p>
