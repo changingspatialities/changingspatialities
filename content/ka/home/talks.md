@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "საუბრები"
-subtitle = "საჯარო სივრცეში"
+subtitle = "მედია და საჯარო სემინარები"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -38,7 +38,7 @@ subtitle = "საჯარო სივრცეში"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
