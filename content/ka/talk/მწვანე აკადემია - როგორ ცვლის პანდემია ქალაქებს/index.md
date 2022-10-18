@@ -1,7 +1,8 @@
 ---
-title: "როგორ ცვლის პანდემია ქალაქებს"
-authors:
-- gkankia
+title: "ბიოლის ფონდი - როგორ ცვლის პანდემია ქალაქებს"
+subtitle: "მოხსენება მწვანე აკადემია 2020-ზე"
+#authors:
+#- gkankia
 publishDate: 2020-12-08 
 doi: ""
 
@@ -44,7 +45,7 @@ url_video: 'https://bit.ly/36Zk8fA'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'ფოტო: **სქრინი ფეისბუქიდან**'
+  caption: ''
   focal_point: ""
   preview_only: false
 

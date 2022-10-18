@@ -97,7 +97,7 @@
   translation: ყველა გვერდი
 
 - id: more_posts
-  translation: ყველა ფოტო
+  translation: ყველა პოსტი
 
 - id: more_talks
   translation: ყველა საჯარო გამოსვლა
@@ -216,7 +216,7 @@
 # Cookie consent
 
 - id: cookie_message
-  translation: ეს საიტი იყენებს ქუქის (წესით უნდა იცოდე ეს რას ნიშნავს ინტერნეტს თუ იყენებ), რათა უკეთ მოერგოს შენს საჭიროებებს.
+  translation: ეს საიტი იყენებს ქუქის!
 
 - id: cookie_dismiss
   translation: გასაგებია!

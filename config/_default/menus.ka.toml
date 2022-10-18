@@ -4,34 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "მთავარი"
+  name = ""
   url = ""
-  weight = 10
-
-[[main]]
-  name = "ადრე და ახლა"
-  url = "#postsbefore"
-  weight = 70
-
-[[main]]
-  name = "ვიზუალები"
-  url = "#postsgraphs"
-  weight = 50
-
-[[main]]
-  name = "ინტერაქტიული"
-  url = "#postsinteractive"
-  weight = 60
-
-[[main]]
-  name = "პუბლიკაციები"
-  url = "#publications"
-  weight = 40
-
-[[main]]
-  name = "საუბრები"
-  url = "#talks"
-  weight = 30
+  weight = ""
 
 [[main]]
   name = "შესახებ"
@@ -39,9 +14,29 @@
   weight = 20
 
 [[main]]
-  name = "GIS"
+  name = "პუბლიკაციები"
+  url = "#publications"
+  weight = 30
+
+[[main]]
+  name = "პორტფოლიო"
+  url = "#demo"
+  weight = 40
+
+[[main]]
+  name = "საუბრები"
+  url = "#talks"
+  weight = 50
+
+[[main]]
+  name = "ბლოგი"
+  url = "#blog"
+  weight = 60
+
+[[main]]
+  name = "ინსტრუქციები"
   url = "tutorial/"
-  weight = 80
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

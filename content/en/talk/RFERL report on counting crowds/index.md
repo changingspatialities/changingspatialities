@@ -1,7 +1,8 @@
 ---
-title: "RFE/RL Report"
-authors:
-- gkankia
+title: "RFE/RL - Urban Protests in Georgian Context"
+subtitle: "A Short Documentary"
+#authors:
+#- gkankia
 publishDate: 2022-07-10 
 doi: ""
 
@@ -15,14 +16,14 @@ doi: ""
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Heinrich Böll Stiftung"
+publication: ""
 publication_short: ""
 
 abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: In this short documentary I observe human behaviour in the built environment and talk about the methodology on how to count crowds.
+summary: A short documentary on observing recent urban protests in Tbilisi and reflecting on the human and built environment interaction.
 
 tags:
 - Public Talk

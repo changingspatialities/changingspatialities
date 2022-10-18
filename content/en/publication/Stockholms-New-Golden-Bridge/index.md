@@ -1,8 +1,8 @@
 ---
-title: "Stockholm’s New Golden Bridge:"
+title: "Stockholm’s New Golden Bridge"
 subtitle: A material infrastructure, fluid assemblage or megaproject?
 authors:
-- gkankia
+- Giorgi Kankia
 publishDate: 2021-06-28
 doi: ""
 

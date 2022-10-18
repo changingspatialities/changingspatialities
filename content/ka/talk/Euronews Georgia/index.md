@@ -1,7 +1,8 @@
 ---
-title: "Euronews Georgia ჩვენი ვიზუალიზაციის შესახებ"
-authors:
-- gkankia
+title: "ევრონიუს საქართველო - ველოტრანსპორტი თბილისში"
+subtitle: "ინტერვიუ"
+#authors:
+#- gkankia
 publishdate: 2021-02-09
 doi: ""
 
@@ -22,7 +23,7 @@ abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: თბილისში ველოსიპედის, როგორც ურბანული მობილობის ფორმის განვითარებისა და რელიეფის ხელსაყრელობის შესახებ.
+summary: ვსაუბრობ, თბილისში ველოსიპედის, როგორც ურბანული მობილობის ფორმის განვითარებისა და ქალაქის რელიეფის ხელსაყრელობის შესახებ.
 
 tags:
 - პრესა
@@ -44,7 +45,7 @@ url_video: 'https://www.youtube.com/watch?v=Q7wZ0jjrXR0'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Photo: **web screen**'
+  caption: ''
   focal_point: ""
   preview_only: false
 

@@ -1,7 +1,8 @@
 ---
-title: "Talking about our cyclability analysis of Tbilisi at Euronews Georgia"
-authors:
-- gkankia
+title: "Euronews Georgia - Urban Cycling in Tbilisi"
+subtitle: "Interview"
+#authors:
+#- gkankia
 publishdate: 2021-02-09
 doi: ""
 
@@ -43,7 +44,7 @@ url_video: 'https://www.youtube.com/watch?v=Q7wZ0jjrXR0'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Photo: **web screen**'
+  caption: ''
   focal_point: ""
   preview_only: false
 

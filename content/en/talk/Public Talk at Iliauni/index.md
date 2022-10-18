@@ -1,7 +1,8 @@
 ---
-title: "Research Talk at Iliauni"
-authors:
-- gkankia
+title: "Ilia State University - Mobility Infrastructure and Segregation"
+subtitle: "Research Talk "
+#authors:
+#- gkankia
 publishDate: 2020-11-05 
 doi: ""
 
@@ -22,7 +23,7 @@ abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: Public Talk (in Georgian) at Iliauni Research Seminar Series - "Tbilisi as a Space for Urban Encounters".
+summary: Research Talk (in Georgian) at Iliauni Research Seminar Series - "Tbilisi as a Space for Urban Encounters".
 
 tags:
 - Public Talk
@@ -64,6 +65,15 @@ projects: []
 ---
 **About the Talk**
 <p align="justify">
-    I had the privilege to talk about my recent <a href="https://gkankia.xyz/publication/mobility-infrastructure-and-idps/">research</a> at a seminar series held regularly by the Anthropology Department at Ilia State University. 
-    We briefly touched upon how the assemblage of mobility infrastructures and physical access to them may have significant impact on the everyday lives of people at the urban fringe.
+    In the frameworks of research seminar <a href="https://urbanassemblage.iliauni.edu.ge/">series</a> organized by the Department of Anthropology at Ilia State University,  I had the privilege to talk about my <a href="https://gkankia.xyz/publication/mobility-infrastructure-and-idps/">research</a>. 
+
+<p align="justify">
+    The research uncovered the everyday mobility behaviour trends of IDPs from Abkhazia residing in one of the outskirts of Tbilisi. The research findings show how much their urban livelihoods and social connections are affected by the lack of accessibility to mobility infrastructures and its bits and pieces creating a larger assemblage of infrastructures and urban segregation.
 </p>
+
+<p style="padding: 0 7em 2em 0;"></p>
+<div class="row">
+  <div class="column" style="">
+    <p>{{< figure src="/img/featured_iliauni.png" width=100% title="">}}</p>
+  </div>
+</div>

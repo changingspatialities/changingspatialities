@@ -1,7 +1,7 @@
 ---
 title: "Social Infrastructure of Mobility and Residential Spaces"
 authors:
-- gkankia
+- Giorgi Kankia
 publishDate: 2020-01-17
 doi: ""
 
@@ -68,3 +68,5 @@ projects: []
  <p align="justify">   
     Building upon the theoretical framework of the Actor-Network theory, this article (in Georgian) seeks to understand the everyday dependence on mobility infrastructures of the IDPs (Internally Displaced Persons) living in the government-allocated residential buildings in a privately-built new neighbourhood in Varketili, at the outskirts of Tbilisi (Georgia). Using unstructured, narrative interviews and ethnography methods of observation throughout two weekends in June, 2019 the research identifies the critical importance of the proper transport linkages for this group of population and everyday peculiarities associated with the use of mobility infrastructures.
 </p>
+<p align="justify">
+    I want to thank Dato Gogishvili for the valuable insights and comments on methods and theory while working on the final draft.</p>

@@ -1,7 +1,8 @@
 ---
-title: "How Pandemics Change Cities"
-authors:
-- gkankia
+title: "Heinrich Böll Stiftung - How Pandemics Change Cities"
+subtitle: "Public Talk at Green Academy 2020"
+#authors:
+#- gkankia
 publishDate: 2020-12-08 
 doi: ""
 
@@ -44,7 +45,7 @@ url_video: 'https://bit.ly/36Zk8fA'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Photo: **FB screenshot**'
+  caption: ''
   focal_point: ""
   preview_only: false
 

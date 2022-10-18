@@ -1,8 +1,9 @@
 ---
 title: "PUTSPACE Research Symposium"
-authors:
-- gkankia
-publishDate: 2022-03-11
+subtitle: "International Research Symposium"
+#authors: 
+#- gkankia
+publishDate: 2021-10-30
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -44,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Photo: **PUTSPACE**'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -64,7 +65,7 @@ projects: []
 ---
 **About the Talk**
 <p align="justify">
-    I had the privilege to attend the #PUTSPACE symposium in Görlitz (Germany) hosted by the Leibniz Institute of Regional Geography (IfL), October 23-27th. The symposium aimed to rethink the urban public transport as an everyday public space. A number of workshops on experimental methodological approaches enabled participants to tap into the different aspects of urban everyday living through mobility infrastructure.</p> 
+    I had the privilege to attend the <a href="https://putspace.eu">#PUTSPACE</a> symposium in Görlitz (Germany) hosted by the Leibniz Institute of Regional Geography (IfL), October 23-27th. The symposium aimed to rethink the urban public transport as an everyday public space. A number of workshops on experimental methodological approaches enabled participants to tap into the different aspects of urban everyday living through mobility infrastructure.</p> 
 
 <p align="justify">
     On the last day of the symposium, along with the IfL researcher, Dr. Lela Rekhviashvili, I discussed the paradigm shift that has been recently observed in Tbilisi urban mobility policy and infrastructure investment. In light of the restrictions on urban public transport in Tbilisi due to the spread of the COVID-19, I spoke about the negative impact of such measures on the daily lives of the most vulnerable groups of population. To make my point, I presented a number of visuals shedding light on the socio-economic nature of public transit and the socio-spatial inequality throughout the city through the lens of urban mobility.</p>

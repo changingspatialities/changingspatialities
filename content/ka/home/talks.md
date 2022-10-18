@@ -1,21 +1,21 @@
 +++
 # A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
+# This section displays recent talks from `content/ka/talk/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
 title = "საუბრები"
-subtitle = "მედია და საჯარო სემინარები"
+subtitle = "მედია გამოსვლები და საჯარო სემინარები"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 100
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -38,7 +38,7 @@ subtitle = "მედია და საჯარო სემინარე�
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -47,7 +47,7 @@ subtitle = "მედია და საჯარო სემინარე�
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "white"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
