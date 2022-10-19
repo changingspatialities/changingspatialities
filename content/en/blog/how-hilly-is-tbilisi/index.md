@@ -21,7 +21,9 @@ One of the key arguments to explain why the bicycle is heavily underrated and un
 <p align="justify">
 According to a 2016 Tbilisi Household Mobility Survey <a href="http://tbilisi.gov.ge/img/original/2018/4/20/%E1%83%A8%E1%83%98%E1%83%9C%E1%83%90%E1%83%9B%E1%83%94%E1%83%A3%E1%83%A0%E1%83%9C%E1%83%94%E1%83%9D%E1%83%91%E1%83%98%E1%83%A1_%E1%83%99%E1%83%95%E1%83%9A%E1%83%94%E1%83%95%E1%83%90.pdf">(link to report in Georgian)</a> most of the car trips within the densely built-up area, are made for short distance travel. The map below highlights in green shading (slopes up to 6%) the streets, where it would be perfectly possible for an average bicycle user to move around freely, whereas red shading shows streets where it would be a difficult task to cycle. Therefore, bicycle presents itself as a perfect alternative for the majority of those short trips done by car which would eventually help decrease the congestions in urban core and mitigate air and noise pollution, as well as the phyisical and mental well-being of city residents. This entry intends to debunk those myths that serve to undermine the role of bicycle mobility in Tbilisi. 
 </p>
-
+<p align="justify">
+Please, note that some flat areas might still be coloured as red. That's due to the glitches in the elevation dataset the analysis was based on. However, the overall picture is pretty accurate.
+</p>
 <!DOCTYPE html>
 <html>
 <head>
