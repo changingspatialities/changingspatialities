@@ -32,7 +32,7 @@ According to a 2016 Tbilisi Household Mobility Survey <a href="http://tbilisi.go
 
 <div class="row">
   <div class="column" style="">
-    <p>{{< figure src="/img/street_slopes_tbs_en.png" width=100% title="Street Slopes (%) in Tbilisi">}}</p>
+    <p>{{< figure src="/img/street_slopes_tbs_corrected 3_en.png" width=100% title="Street Slopes (%) in Tbilisi">}}</p>
   </div>
 </div>
 
