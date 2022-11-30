@@ -11,7 +11,7 @@ interval = 2500
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "350px"
+height = "400px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -37,7 +37,7 @@ height = "350px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#fff"  # An HTML color value.
   overlay_img = "tbilisi_3d.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -57,7 +57,7 @@ height = "350px"
   cta_icon = "folder-open"
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "tskaltubo-01.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Tbilisi Green Spaces"
@@ -69,7 +69,7 @@ height = "350px"
   cta_icon = "folder-open"
   overlay_color = "#fff"  # An HTML color value.
   overlay_img = "josm_featured.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.4 # Darken the image. Value in range 0-1.
+  overlay_filter = 0.3 # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Oni Municipality"
@@ -81,7 +81,7 @@ height = "350px"
   cta_icon = "folder-open"
   overlay_color = "#fff"  # An HTML color value.
   overlay_img = "racha-featured.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Bakhmaro"
@@ -93,7 +93,7 @@ height = "350px"
   cta_icon = "folder-open"
   overlay_color = "#fff"  # An HTML color value.
   overlay_img = "bakhmaro.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Mount Gomi"
@@ -105,7 +105,7 @@ height = "350px"
   cta_icon = "folder-open"
   overlay_color = "#fff"  # An HTML color value.
   overlay_img = "gomis mta_featured.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Mukhrani"
@@ -117,5 +117,5 @@ height = "350px"
   cta_icon = "folder-open"
   overlay_color = "#fff"  # An HTML color value.
   overlay_img = "mukhrani_structural.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3 # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2 # Darken the image. Value in range 0-1.
 +++

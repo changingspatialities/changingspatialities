@@ -11,10 +11,22 @@ interval = 2500
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "350px"
+height = "400px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+
+[[item]]
+  title = "#30DaysMapChallenge"
+  content = "A month of mapping"
+  align = "center"
+  cta_label = "View More"
+  cta_url = "/personal/30-days-of-mapping/"
+  cta_icon_pack = "fas"
+  cta_icon = "map"
+  overlay_color = "#fff"  # An HTML color value.
+  overlay_img = "featured 30day.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Regions of Georgia"
@@ -142,4 +154,5 @@ height = "350px"
   overlay_color = "#fff"  # An HTML color value.
   overlay_img = "featured meteors.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+
 +++
