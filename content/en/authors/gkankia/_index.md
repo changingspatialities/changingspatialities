@@ -75,6 +75,6 @@ user_groups:
 <p align="justify">
   To encapsulate all of the above, I have co-founded and co-run a data visualization and analysis project <a href="https://zaxis.ge/">Z.axis</a> with my fellows. The project aims to bring data visualization and analytics tools closer to the general public and explain more thoroughly some of the pressing social issues happening on a daily basis.</p>
 <p align="justify"> 
-  I try to make or to put it mildly, LEARN HOW to make pretty-looking maps and visuals in my spare time. I am always open for an interesting and challenging collaboration, both through the <a href="mailto:giorgi@zaxis.ge">organization</a> and <a href="mailto:me@gkankia.xyz">individually.</p>
+  I try to make or to put it mildly, LEARN HOW to make pretty-looking maps and visuals in my spare time. I am always open for an interesting and challenging collaboration, both through the <a href="mailto:giorgi@zaxis.ge">organization</a> and <a href="mailto:me@gkankia.xyz">individually.</a></p>
 <p align="justify"> 
-  While you can scroll down to see my portfolio for the professional or personal projects I have worked over the years, I have compiled them in a much more accessible way over here <a href="#">here</a>. Please, have a glance and enjoy!</p>
+  While you can scroll down to see my portfolio for the professional or personal projects I have worked over the years, I have compiled them in a much more accessible way over <a href="#">here</a>. Please, have a glance and enjoy!</p>
