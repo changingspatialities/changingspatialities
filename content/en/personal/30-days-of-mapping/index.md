@@ -77,7 +77,7 @@ img {
  <div>
     <figcaption style="font-size: 22pt"><u>#7 - Raster</u></figcaption>
     <p style="justify">
-        The interactive visual below tracks the nitrate pollution in the Black Sea over the last year couple and half years up until April 2022. Higher levels of nitrate pollution poses a threat to marine life and the biodiversity. Data was collected from <a href="https://www.copernicus.eu/en">Copernicus Database</a>.
+        The interactive visual below tracks the nitrate pollution in the Black Sea from March, 2019 up until April, 2022. Higher levels of nitrate pollution poses a threat to marine life and the biodiversity. Data was collected from <a href="https://www.copernicus.eu/en">Copernicus Database</a>.
     </p>
     <iframe src="https://living-noble-end.glitch.me/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="100%" allowfullscreen></iframe>
   </div> 
@@ -187,7 +187,7 @@ img {
   </div>                    
   <div>
     <figcaption style="font-size: 22pt"><u>#25 - Colour Friday: 2 Colours</u></figcaption>
-    <p style="justify">Technocally, there are more than two colours on this map, but with its minimal design, subtle shading and topography, it shows the region of South Caucausus with two major colour gradients.</p>
+    <p style="justify">Technically, there are more than two colours on this map, but with its minimal design, subtle shading and topography, it shows the region of South Caucausus with two major colour gradients.</p>
     <img src="/img/day 25-two colours_v4.png" width=100% title="">
   </div>
  <div>
