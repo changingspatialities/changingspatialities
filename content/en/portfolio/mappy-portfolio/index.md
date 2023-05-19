@@ -134,9 +134,6 @@ body {
 #page-title {
     z-index: 2;
 }
-#about {
-    margin: 5em;
-}
 header {
     font-family: 'high_alpineregular' !important;
     font-size: 60pt;
@@ -182,6 +179,7 @@ p {
     margin-bottom: 25px;
     padding-top: 25;
     padding-bottom: 25;
+    line-height: 34%;
 }
 .row {
     display: flex;
@@ -325,7 +323,7 @@ p {
     }
   }
   /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-  @media screen and (min-width: 300px) {
+  @media screen and (max-width: 320px) {
     header {
         font-size: 20pt;
     }
