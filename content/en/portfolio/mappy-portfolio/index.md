@@ -179,7 +179,10 @@ p {
     margin-bottom: 25px;
     padding-top: 25;
     padding-bottom: 25;
-    line-height: 34%;
+    /*letter-spacing: 50px;*/
+    }
+p.about {
+  line-height: 30px;
 }
 .row {
     display: flex;
@@ -201,7 +204,7 @@ p {
   /* Create three equal columns that floats next to each other */
   .column {
     flex: 1 0 33.33%;
-    padding: 10px;
+    padding: 1px;
     display: none; /* Hide all elements by default */
     /* Set equal heights for columns */
     flex-direction: column; /* Stack content vertically within columns */
@@ -316,8 +319,10 @@ p {
       margin-top: 10px;
       margin-bottom: 10px;
       padding-top: 10;
-      line-height: normal;
       }
+    p.about {
+      line-height: normal;
+    }
     .column {
       flex-basis: 100%;
       }
@@ -348,7 +353,7 @@ p {
                 </div>
               </div>
         <div id="about">
-            <p style="font-size: 17px;">Here is a selection of maps and other data visualisation materials I have worked on both, in <span class="highlight">personal and professional capacity.</span> For more cool stuff, have a look at our organisation's work at <a class="link" href="https://zaxis.ge">Z.axis</a>.</p>
+            <p class="about" style="font-size: 17px;">Here is a selection of maps and other data visualisation materials I have worked on both, in <span class="highlight">personal and professional capacity.</span> For more cool stuff, have a look at our organisation's work at <a class="link" href="https://zaxis.ge">Z.axis</a>.</p>
         </div>   
     </header>
     <!-- MAIN (Center website) -->
