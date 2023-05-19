@@ -309,13 +309,32 @@ p {
   /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
   @media screen and (max-width: 768px) {
     header {
-      font-family: 'high_alpineregular' !important;
-      font-size: 10pt;
-      background-color: #ffffff;
-      height: 100px;
-      margin-top: 50px;
-      margin-bottom: 30px;
-}
+      font-size: 40pt;
+    }
+    #about {
+      max-width: 100%;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      padding-top: 10;
+      line-height: normal;
+      }
+    .column {
+      flex-basis: 100%;
+      }
+    #myBtnContainer {
+      max-width: 100%;
+      margin: 0;
+      position: relative;
+      }
+    img:hover {
+      -ms-transform: scale(1.05); /* IE 9 */
+      -webkit-transform: scale(1.05); /* Safari 3-8 */
+      transform:  scale(1.05);
+      -webkit-transition: all .5s ease-in-out;
+      -moz-transition: all .5s ease-in-out;
+      -o-transition: all .5s ease-in-out;
+      transition: all .5s ease-in-out;
+      }
   }
 </style>
 <div oncontextmenu="return false" id="cover-map">
