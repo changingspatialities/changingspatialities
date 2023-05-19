@@ -321,15 +321,16 @@ p.about {
       padding-top: 10;
       }
     p.about {
-      line-height: normal;
+      line-height: 30px;
     }
     .column {
       flex-basis: 100%;
       }
     #myBtnContainer {
       max-width: 100%;
-      margin: 0;
+      margin: 0 auto;
       position: relative;
+      left: 50%;
       }
     img:hover {
       -ms-transform: scale(1.05); /* IE 9 */
