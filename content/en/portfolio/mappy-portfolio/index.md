@@ -362,7 +362,7 @@ p.about {
       max-width: 100%;
       margin: 0 auto;
       padding: 5 5 5 5;
-      position: relative;
+      position: absolute;
       top: 20%;
       left: 50%;
       }
