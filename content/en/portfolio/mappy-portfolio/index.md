@@ -313,11 +313,33 @@ p {
       font-size: 50pt;
     }
     .column {
-      width: 100%;
+      flex: 1 0 100%;
+      padding: 10px;
+      display: none; /* Hide all elements by default */
+    /* Set equal heights for columns */
+      flex-direction: column; /* Stack content vertically within columns */
     }
+    .content-iframe {
+      position: relative;
+      padding-bottom: 50%;
+      overflow: hidden;
+    }
+  .content-iframe iframe {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0; 
+    width: 100%;
+    height: 100%;
+  }
     #about {
-        padding-top: 50;
-        padding-bottom: 50;
+      max-width: 100%;
+      margin: 0 auto;
+      margin-top: 5px;
+      margin-bottom: 5px;
+      padding-top: 5;
+      padding-bottom: 5;
+      line-height: 34%;
     }
     #myBtnContainer {
         padding: 50;
@@ -336,13 +358,13 @@ p {
       margin-bottom: 10px;
     }
     #about {
-    max-width: 100%;
-    margin: 0 auto;
-    margin-top: 25px;
-    margin-bottom: 25px;
-    padding-top: 25;
-    padding-bottom: 25;
-    line-height: 34%;
+      max-width: 100%;
+      margin: 0 auto;
+      margin-top: 5px;
+      margin-bottom: 5px;
+      padding-top: 5;
+      padding-bottom: 5;
+      line-height: 34%;
     }
   }
 </style>
