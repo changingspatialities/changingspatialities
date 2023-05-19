@@ -306,66 +306,8 @@ p {
     -o-transition: all .5s ease-in-out;
     transition: all .5s ease-in-out;
  }
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 900) {
-    header {
-      max-width: 100%;
-      font-size: 50pt;
-    }
-    .column {
-      flex: 1 0 100%;
-      padding: 10px;
-      display: none; /* Hide all elements by default */
-    /* Set equal heights for columns */
-      flex-direction: column; /* Stack content vertically within columns */
-    }
-    .content-iframe {
-      position: relative;
-      padding-bottom: 50%;
-      overflow: hidden;
-    }
-  .content-iframe iframe {
-    display: inline-block;
-    position: absolute;
-    top: 0;
-    left: 0; 
-    width: 100%;
-    height: 100%;
-  }
-    #about {
-      max-width: 100%;
-      margin: 0 auto;
-      margin-top: 5px;
-      margin-bottom: 5px;
-      padding-top: 5;
-      padding-bottom: 5;
-      line-height: 34%;
-    }
-    #myBtnContainer {
-        padding: 50;
-    }
-  }
   /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-  @media screen and (max-width: 320px) {
-    header {
-      max-width: 100%;
-      font-size: 20pt;
-    }
-    .column {
-      max-width: 100%;
-      height: 100px;
-      margin-top: 15px;
-      margin-bottom: 10px;
-    }
-    #about {
-      max-width: 100%;
-      margin: 0 auto;
-      margin-top: 5px;
-      margin-bottom: 5px;
-      padding-top: 5;
-      padding-bottom: 5;
-      line-height: 34%;
-    }
+  @media screen and (max-width: 768px) {
   }
 </style>
 <div oncontextmenu="return false" id="cover-map">
