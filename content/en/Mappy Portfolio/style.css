@@ -1,0 +1,332 @@
+@import url(https://necolas.github.io/normalize.css/8.0.1/normalize.css);
+@import url(https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Sans+Mono:wght@100;200;300;400;500;600;700;800;900&display=swap);
+
+/* loading local fonts */
+@font-face {
+    font-family: 'high_alpineregular';
+    src: url('fonts/highalpine-webfont.woff2') format('woff2'),
+         url('fonts/highalpine-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'high_alpineregular';
+    src: url('fonts/highalpine-webfont.woff2') format('woff2'),
+         url('fonts/highalpine-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'belltopo_sansbold';
+    src: url('fonts/belltoposans-bold-webfont.woff2') format('woff2'),
+         url('fonts/belltoposans-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'belltopo_sansbold_italic';
+    src: url('fonts/belltoposans-bolditalic-webfont.woff2') format('woff2'),
+         url('fonts/belltoposans-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'belltopo_sansitalic';
+    src: url('fonts/belltoposans-italic-webfont.woff2') format('woff2'),
+         url('fonts/belltoposans-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'belltopo_sansregular';
+    src: url('fonts/belltoposans-regular-webfont.woff2') format('woff2'),
+         url('fonts/belltoposans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#cover-map {
+    height: 500px;
+}
+
+body {
+    font-family: 'belltopo_sansregular';
+    font-size: 50pt;
+    color: #333;
+    margin: 0 auto;
+    padding: 0;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#page-title {
+    z-index: 2;
+}
+
+#about {
+    margin: 5em;
+}
+
+header {
+    font-family: 'high_alpineregular';
+    font-size: 60pt;
+    background-color: #ffffff;
+    height: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/* Center website */
+.main {
+    max-width: 100%;
+    margin: auto;
+  }
+  
+h1 {
+    font-family: 'high_alpineregular';
+    font-size: 25px;
+    word-break: break-all;
+    text-align: center;
+  }
+  
+h2 {
+    font-family: 'Noto Sans Mono', monospace;
+    font-weight: 300;
+    font-size: 22px;
+    word-break: break-all;
+    text-align: center;
+  }
+
+  h3, h4 {
+    font-family: 'Noto Sans Mono', monospace;
+    font-weight: 300;
+    font-size: 15px;
+    word-break: break-all;
+    text-align: center;
+  }
+
+p {
+    font-family: 'belltopo_sansregular';
+    font-size: 13px;
+    text-align: justify;
+    line-height: 3vh;
+  }
+
+#about {
+    max-width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 50;
+    padding-bottom: 50;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    /*margin: 10px;*/
+    align-items: stretch;
+  }
+  
+/* Clear floats after rows */ 
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+  /* Add padding BETWEEN each column */
+  .row,
+  .row > .column {
+    padding: 8px;
+  }
+  
+  /* Create three equal columns that floats next to each other */
+  .column {
+    flex: 1 0 33.33%;
+    padding: 10px;
+    box-sizing: border-box;
+    display: none; /* Hide all elements by default */
+    /* Set equal heights for columns */
+    flex-direction: column; /* Stack content vertically within columns */
+  }
+
+  .content-iframe {
+    position: relative;
+    padding-bottom: 70%;
+    overflow: hidden;
+  }
+
+  .content-iframe iframe {
+    position: absolute;
+    top: 0;
+    left: 0; 
+    width: 100%;
+    height: 100%;
+  }
+
+  /* Content */
+  .content {
+    background-color: white;
+    padding: 10px;
+  }
+  
+  /* The "show" class is added to the filtered elements */
+  .show {
+    display: block;
+  }
+
+/* Style the buttons */
+
+#myBtnContainer {
+    max-width: 100%;
+    margin: 0;
+    padding: 50;
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.btn {
+    font-size: 15px;
+    color: #969696;
+    border: none;
+    outline: none;
+    padding: 50;
+    background: linear-gradient(180deg,white 90%, #2862FC 10%);
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    font-size: 20px;
+    background-color: #ffffff;
+    color: #252525;
+  }
+  
+  .btn.active {
+    background-color: #ffffff;
+    color: #252525;
+  }
+
+  span.highlight {
+    color: white;
+    background: #757577;
+    padding: 2px 5px 2px 5px;
+  }
+
+  a.link {
+    color: #333;
+    padding: 30;
+    background: linear-gradient(180deg,white 95%, #000000 5%);
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  a.link:visited {
+    color: #333;
+  }
+
+  a.link:hover {
+    padding: 30;
+    color: white;
+    background: #000000;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  a.mail {
+    color: #333;
+    padding: 40;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  a.mail:visited {
+    color: #333;
+  }
+
+  a.mail:hover {
+    padding: 40;
+    color: white;
+    background: #000000;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+ img {
+    -webkit-touch-callout: none;
+ } 
+
+ .image-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .social-share-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #f1f1f1;
+    color: #333;
+    padding: 8px 16px;
+    border-radius: 4px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  .image-container:hover .social-share-button {
+    opacity: 1;
+  }
+  
+ img:hover {
+    -ms-transform: scale(0.9); /* IE 9 */
+    -webkit-transform: scale(0.9); /* Safari 3-8 */
+    transform:  scale(0.9);
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+ }
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 900) {
+    header {
+        font-size: 50pt;
+    }
+    .column {
+      width: 100%;
+    }
+
+    #about {
+        padding-top: 50;
+        padding-bottom: 50;
+    }
+
+    #myBtnContainer {
+        padding: 50;
+    }
+
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    header {
+        font-size: 30pt;
+    }
+    .column {
+      width: 100%;
+    }
+  }

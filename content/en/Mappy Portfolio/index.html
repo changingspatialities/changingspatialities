@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property='og:title' content='Mapping Changing Spatialities'/>
+    <meta property='og:image' content=''/>
+    <meta property='og:description' content=''/>
+    <meta property='og:url' content='https://gkankia.zyx/'/>
+    <title>Mappy Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">   
+</head>
+<style>
+@media print {
+    html,
+    body {
+       display: none;
+    }
+ }
+</style>
+<div oncontextmenu="return false" id="cover-map">
+    <iframe loading="lazy" style="border: 0px #ffffff none" src="https://meteor-lumbar-menu.glitch.me" name="myiFrame" width="100%" height="500px" frameborder="1" marginwidth="0px" marginheight="0px" scrolling="no" oncontextmenu="return false;"></iframe>
+</div>
+<body oncontextmenu="return false;">
+    <header>
+        <div style="position: absolute; top: 2.5%; left: 50%; opacity: 0.5;">
+            <div div style="position: relative; left: -50%;">
+                <div id="page-title">Mapping Changing Spatialities</div>
+        </div>
+        </div>
+        <div id="about">
+            <h2>About Me</h2>
+            <p style="font-size: 17px;">I am Giorgi Kankia, an urban geogrpaher and planner with a special passion for <span class="highlight">cartography and spatial analysis.</span>
+           Here is a selection of maps and other data visualisation materials I have worked on both, in personal and professional capacity.
+           To learn more about my work aside from mapping, you can check my <a class="link" href="https://gkankia.xyz">website</a>
+           or have a look at our organisation's work at <a class="link" href="https://zaxis.ge">Z.axis</a>.
+           For professional enquiries, reach out at <a class="mail" href="mailto:me@gkankia.xyz"><b>me@gkankia.xyz</b></a></p>
+        </div>   
+    </header>
+    <!-- MAIN (Center website) -->
+    <div class="main">
+    <div id="myBtnContainer">
+      <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+      <button class="btn" onclick="filterSelection('urban')"> Urban Planning & Spatial Analysis</button>
+      <button class="btn" onclick="filterSelection('relief')"> [Shaded/3D] Relief</button>
+      <button class="btn" onclick="filterSelection('interactive')"> Interactive</button>
+    </div>
+    <br>
+    <!-- Portfolio Gallery Grid -->
+
+    <div class="row">
+        <div class="column interactive">
+          <div class="content">
+            <div class="image-container">
+                <img src="img/interactive/tbilisi-1984-2022-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+                <div class="social-share-button">
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=https://example.com" target="_blank" class="fa fa-facebook"></a>
+                    <a href="https://twitter.com/intent/tweet?url=https://example.com&text=Check%20out%20this%20image" target="_blank" class="fa fa-twitter"></a>
+                    <a href="https://www.linkedin.com/shareArticle?url=https://example.com&title=Tbilisi%20Evolution%20from%20the%2080s" target="_blank" class="fa fa-linkedin"></a>
+                </div>
+            </div>
+            <h4>Tbilisi Evolution from the 80s</h4>
+            <p style="text-align: center;">See the full project <a class="link" href="https://zaxis.ge/portfolio/ka-tbilisi-evolution">here</a></p>
+            <p style="text-align: center;">In collaboration with <i>Tbilisi as an Urban Assemblage</i> <a class="link" href="https://urbanassemblage.iliauni.edu.ge/interactive-map/">project</a>.</p>
+          </div>
+        </div>
+        <div class="column relief">
+          <div class="content">
+            <img src="img/relief/სამცხე-ჯავახეთი_plan_oblique_label.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Samtskhe - Javakheti, Georgia</h4>
+            <p style="text-align: center;">Retro-style plan oblique</p>
+          </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="column relief">
+        <div class="content">
+          <img src="img/relief/day 4-svaneti mountains-pano-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+          <h4>Svaneti Mountains</h4>
+          <p style="text-align: center;">The panorama of the Enguri river gorge in Svaneti, Georgia.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+        <div class="column urban">
+          <div class="content">
+            <img src="img/ua_sp/day 21-Kontur population east geo - new-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>3D Population Map</h4>
+            <p>A rather new perspective of looking at Georgia's demographics, with Russian-occupied Tskhinvali included.</p>
+          </div>
+        </div>
+        <div class="column interactive">
+          <div class="content-iframe">
+            <iframe loading="lazy" style="border: 0px #ffffff none" src="https://dog-luxuriant-gallon.glitch.me" name="myiFrame" width="100%" height="75%" frameborder="1" marginwidth="0px" marginheight="0px" scrolling="no"></iframe>
+        </div>
+        <div class="content">
+            <h4>Counting Urban Protest Crowds</h4>
+            <p style="text-align: center;">See the full project <a class="link" href="https://zaxis.ge/resources-ka/counting-crowds">here</a></p>
+            <p style="text-align: center;"><b>RFE/RL Tbilisi</b> office did a <a class="link" href="https://www.radiotavisupleba.ge/a/31936837.html">documentary</a> on this.</p>
+        </div>
+        </div>
+        <div class="column urban">
+          <div class="content">
+            <img src="img/ua_sp/delivery_services-01.svg" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Tbilisi Food Delivery</h4>
+            <p style="text-align: center;">See the full project <a class="link" href="https://zaxis.ge/blog-ka-visual/food-geography-post-pandemic-city">here</a></p>
+          </div>
+        </div>
+
+        <div class="column relief">
+            <div class="content">
+              <img src="img/relief/day 28-puerto_rico_trench.png" alt="" style="width:100%" oncontextmenu="return false;">
+              <h4>Puerto Rico Trench</h4>
+              <p>This 3D diorama will be featured in a children's book <a class="link" href="https://www.karenromanoyoung.com/books">DIVING FOR DEEP SEA DRAGONS</a> by Karen Romano Young sometime in 2024.</p>
+            </div>
+          </div>
+
+        <div class="column urban">
+          <div class="content">
+            <img src="img/ua_sp/street_slopes_tbs_en-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Tbilisi Street Slopes</h4>
+            <p>Topography is not a big issue for cycling in Tbilisi. <b>Euronews Georgia</b> <a class="link" href="https://euronewsgeorgia.com/2021/02/08/tbilisis-meria-mobilobis-ocwlian-strategiaze-mushaobs/">reported</a> on this.</p>
+          </div>
+        </div>
+        <div class="column urban">
+          <div class="content">
+            <img src="img/ua_sp/map_1_georgians in russia-01-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>How Many Georgians Are There in Russia?</h4>
+            <p style="text-align: center;">Not 1 000 000! That's for sure!</p>
+          </div>
+        </div>
+        <!--<div class="column interactive">
+          <div class="content">
+            <iframe loading="lazy" style="border: 0px #ffffff none" src="https://meteor-lumbar-menu.glitch.me" name="myiFrame" width="100%" height="293px" frameborder="1" marginwidth="0px" marginheight="0px" scrolling="no"></iframe>
+            <h4>Mkinvartsveri 3D</h4>
+            <p>Mount Mkinvartsveri at 5054 M AMSL (a.k.a Mount Kazbek)</p>
+          </div>
+        </div>-->
+        <div class="column urban">
+          <div class="content">
+            <img src="img/ua_sp/khada_future mobility_en-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Khada Valley Development Plan</h4>
+            <p style="text-align: center;">See the full project <a class="link" href="https://gkankia.xyz/portfolio/khada/">here</a></p>
+            <p style="text-align: center;">In collaboration with BAU DESIGN through an ADB-funded project.</p>
+          </div>
+        </div>
+        <div class="column urban">
+          <div class="content">
+            <img src="img/ua_sp/access_to_business_metro-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Subway Access to Business Oportunities</h4>
+            <p style="text-align: center;">See the full project <a class="link" href="https://zaxis.ge/blog-ka-visual/urban-mobility-tbilisi">here</a></p>
+          </div>
+        </div>
+        <div class="column relief">
+          <div class="content">
+            <img src="img/relief/kvemo_kartli-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Kvemo Kartli Region, Georgia</h4>
+            <p style="text-align: center;">See the full project <a class="link" href="#">here</a></p>
+          </div>
+        </div>
+        <div class="column urban">
+          <div class="content">
+            <img src="img/ua_sp/swimming_pool.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Swimming Pools in Tbilisi</h4>
+            <p>The uneven spatial distribution of private swimming pools in Tbilisi.</p>
+          </div>
+        </div>
+        <div class="column relief">
+          <div class="content">
+            <img src="img/relief/shaded-1-eastern_georgia_with_clouds_v1.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Old maps in 3D</h4>
+            <p style="text-align: center;">See the full project <a class="link" href="https://zaxis.ge/blog-en-visual/georgia-in-three-dimensions-vol-l">here</a></p>        
+          </div>
+        </div>
+        <div class="column interactive">
+          <div class="content-iframe">
+            <iframe loading="lazy" style="border: 0px #ffffff none" src="https://living-noble-end.glitch.me" name="myiFrame" width="100%" frameborder="1" marginwidth="0px" marginheight="0px" scrolling="no"></iframe>
+            </div>
+            <div class="content">
+                <h4>Tracking Black Sea Pollution</h4>
+                <p>The interactive visual below tracks the nitrate pollution in the Black Sea from March, 2019 up until April, 2022.
+                Higher levels of nitrate pollution poses a threat to marine life and the biodiversity.</p>
+            </div>
+        </div>
+        <div class="column relief">
+          <div class="content">
+            <img src="img/relief/caucasus_glowing-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Glowing South Caucasus</h4>
+            <p>This map is a result of trial and error loop while getting my hands on Blender.</p>
+          </div>
+        </div>
+        <div class="column urban">
+          <div class="content">
+            <img src="img/ua_sp/districts_urban_layout-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Urban Morphology Analysis</h4>
+            <p>It is striking to see how these adjacent, historic neighbourhoods in Tbilisi have two completely different urban layout.</p>
+          </div>
+        </div>
+        <div class="column urban">
+          <div class="content">
+            <img src="img/ua_sp/restaurants_tbilisi-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Urban Food Geography</h4>
+            <p style="text-align: center;">See the full project <a class="link" href="https://zaxis.ge/blog-ka-visual/food-geography-post-pandemic-city">here</a></p>
+          </div>
+        </div>
+        <div class="column interactive">
+          <div class="content">
+            <img src="img/interactive/soviet_georgia_3d-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Soviet Topographic Map of Georgia</h4>
+            <p style="text-align: center;">See the full project <a class="link" href="https://zaxis.ge/portfolio/en-sovietgeorgia">here</a></p>        
+          </div>
+        </div>
+        <div class="column interactive">
+          <div class="content">
+            <img src="img/interactive/georgia population lines-01.jpg" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Georgia Population Joyplot</h4>
+            <p style="text-align: center;">See the full project <a class="link" href="https://gkankia.xyz/personal/population-lines/">here</a></p>
+          </div>
+        </div>
+        <div class="column urban">
+          <div class="content">
+            <img src="img/ua_sp/detentions along SO abl upd_may_2023.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Illegal Detentions Along the ABL</h4>
+            <p>This map highlights the arrests, or rather kidnappings of local residents from their own land plots along the Tskhinvali region administrative boundary line 
+                by Russian occupation forces and South Ossetia's KGB guards.</p>
+          </div>
+        </div>
+        <div class="column urban">
+          <div class="content">
+            <img src="img/ua_sp/tram_en-01.jpg" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Tbilisi Tram Newtork in 1960s</h4>
+            <p>Regardless of how faulty the whole Soviet system might have been, their approach to urban transit planning did make a lot of sense.</p>
+          </div>
+        </div>
+        <div class="column relief">
+          <div class="content">
+            <img src="img/relief/day 13-ararat-render-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Mount Ağrı [Ararat], Türkiye</h4>
+            <p>Shaded relief map of Mount Ağrı [Arm. Ararat], located in the Eastern part of the country, bordering Armenia.</p>
+          </div>
+        </div>
+        <div class="column interactive">
+          <div class="content">
+            <img src="img/interactive/map-4-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>3D Population Map of Georgia</h4>
+            <p style="text-align: center;">See the full project <a class="link" href="https://equatorial-smoggy-stork.glitch.me/">here</a></p>
+          </div>
+        </div>
+        <div class="column urban">
+          <div class="content">
+            <img src="img/ua_sp/day 14-georgia fire map_final-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Georgia Fire Prevalence</h4>
+            <p>In addition to the spatial distribution of wildfires, industrial areas are also detected as emitting most of the smokes into the atmosphere.</p>
+          </div>
+        </div>
+        <div class="column relief">
+          <div class="content">
+            <img src="img/relief/day 16-Egrisi range-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Egrisi Mountain Range</h4>
+            <p>A rather abstract visual of a portion of Egrisi mountain range in North-Western Georgia.</p>
+          </div>
+        </div>
+        <div class="column interactive">
+          <div class="content">
+            <img src="img/interactive/tbilisi_covid_vaccination-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Covid Vaccination Points in Tbilisi</h4>
+            <p style="text-align: center;">See the full project <a class="link" href="https://zaxis.ge/map/covid-tbilisi">here</a></p>
+          </div>
+        </div>
+        
+        <div class="column urban">
+          <div class="content">
+            <img src="img/ua_sp/day 24-fantasy lego internet speed.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Internet Speed in Tbilisi</h4>
+            <p>This lego-style map shows how fast the fixed broadband internet connection is across Tbilisi.</p>
+          </div>
+        </div>
+        <div class="column urban">
+          <div class="content">
+            <img src="img/interactive/a-decade-of-growth-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Documenting Tbilisi's Urban Sprawl</h4>
+            <p style="text-align: center;">See the full project <a class="link" href="https://zaxis.ge/map/tbilisi-sprawl">here</a></p>
+          </div>
+        </div>
+        <div class="column urban">
+          <div class="content">
+            <img src="img/ua_sp/Top 3 cities-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Top 3 Urban Areas in Georgia</h4>
+            <p style="text-align: center;">The spatial distribution of demographics.</p>
+          </div>
+        </div>
+
+    
+
+    <!-- END GRID -->
+    </div>
+    
+    <!-- END MAIN -->
+    </div>
+    <script>        
+filterSelection("all")
+function filterSelection(c) {
+  var x, i;
+  x = document.getElementsByClassName("column");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
+
+function w3AddClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
+  }
+}
+
+function w3RemoveClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) {
+      arr1.splice(arr1.indexOf(arr2[i]), 1);     
+    }
+  }
+  element.className = arr1.join(" ");
+}
+
+
+// Add active class to the current button (highlight it)
+var btnContainer = document.getElementById("myBtnContainer");
+var btns = btnContainer.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function(){
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+
+// disallow screenshot
+
+document.addEventListener("contextmenu", function(event) {
+  event.preventDefault();
+});
+
+// Rescale rows/column content
+
+window.addEventListener('load', adjustIframeHeights);
+window.addEventListener('resize', adjustIframeHeights);
+
+function adjustIframeHeights() {
+  var columns = document.querySelectorAll('.column');
+  var tallestColumnHeight = 0;
+
+  columns.forEach(function(column) {
+    var iframeWrapper = column.querySelector('.content-iframe');
+    iframeWrapper.style.height = 'auto'; // Reset height to recalculate
+
+    var columnHeight = column.offsetHeight;
+    if (columnHeight > tallestColumnHeight) {
+      tallestColumnHeight = columnHeight;
+    }
+  });
+
+  columns.forEach(function(column) {
+    var iframeWrapper = column.querySelector('.content-iframe');
+    iframeWrapper.style.height = tallestColumnHeight + 'px';
+  });
+}
+    </script>
+</body>
+</html>
