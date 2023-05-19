@@ -350,7 +350,8 @@ p.about {
       max-width: 100%;
       margin-top: 10px;
       margin-bottom: 40px;
-      padding-top: 10;
+      padding-top: 10px;
+      padding-top: 40px;
       }
     p.about {
       line-height: 30px;
