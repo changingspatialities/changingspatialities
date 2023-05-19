@@ -75,10 +75,10 @@ image:
     font-style: normal;
 }
 /* removing default hugo parameters from the portfolio page */
-#navbar-main {
+/*#navbar-main {
   visibility: hidden !important;
   display: none; 
-}
+}*/
 .article-container.pt-3 {
   visibility: hidden !important;
   display: none; 
@@ -118,8 +118,9 @@ body {
     font-family: 'belltopo_sansregular' !important;
     font-size: 50pt;
     color: #333;
-    margin: auto;
-    padding: 0 0 0 0;
+    margin: 0 auto;
+    padding-right: 15px;
+    padding-left: 15px;
     -webkit-user-select: none;
     -webkit-touch-callout: none;
     -moz-user-select: none;
@@ -136,14 +137,13 @@ header {
     font-family: 'high_alpineregular' !important;
     font-size: 60pt;
     background-color: #ffffff;
-    height: 200px;
+    height: 100px;
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 /* Center website */
 .main {
     max-width: 100%;
-    margin: auto;
   }
 h1 {
     font-family: 'high_alpineregular' !important;
@@ -174,10 +174,10 @@ p {
 #about {
     max-width: 50%;
     margin: 0 auto;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding-top: 50;
-    padding-bottom: 50;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-top: 25;
+    padding-bottom: 25;
 }
 .row {
     display: flex;
@@ -296,9 +296,9 @@ p {
     -webkit-touch-callout: none;
  } 
  img:hover {
-    -ms-transform: scale(0.9); /* IE 9 */
-    -webkit-transform: scale(0.9); /* Safari 3-8 */
-    transform:  scale(0.9);
+    -ms-transform: scale(1.0); /* IE 9 */
+    -webkit-transform: scale(1.0); /* Safari 3-8 */
+    transform:  scale(1.0);
     -webkit-transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -o-transition: all .5s ease-in-out;
@@ -335,16 +335,13 @@ p {
 </div>
 <body oncontextmenu="return false;">
     <header>
-        <div style="position: absolute; top: 2.5%; left: 50%; opacity: 0.5;">
+        <div style="position: absolute; top: 7%; left: 50%; opacity: 0.5;">
             <div div style="position: relative; left: -50%;">
                 <div id="page-title" style="font-family: high_alpineregular">Mapping Changing Spatialities</div>
                 </div>
               </div>
         <div id="about">
-            <h2>About Me</h2>
-            <p style="font-size: 17px;">Here is a selection of maps and other data visualisation materials I have worked on both, in personal and professional capacity.<span class="highlight">cartography and spatial analysis.</span>
-           To learn more about of what I do, you can have a look at our organisation's work at <a class="link" href="https://zaxis.ge">Z.axis</a>.
-           For professional enquiries, reach out at <a class="mail" href="mailto:me@gkankia.xyz"><b>me@gkankia.xyz</b></a> or <a class="mail" href="mailto:me@gkankia.xyz"><b>giorgi@zaxis.ge</b></a></p>
+            <p style="font-size: 17px;">Here is a selection of maps and other data visualisation materials I have worked on both, in <span class="highlight">personal and professional capacity.</span> For more cool stuff, have a look at our organisation's work at <a class="link" href="https://zaxis.ge">Z.axis</a>.</p>
         </div>   
     </header>
     <!-- MAIN (Center website) -->
@@ -470,15 +467,14 @@ p {
             <p style="text-align: center;">See the full project <a class="link" href="https://zaxis.ge/blog-en-visual/georgia-in-three-dimensions-vol-l">here</a></p>        
           </div>
         </div>
+      <div class="row">
         <div class="column interactive">
-          <div class="content-iframe">
+          <div class="content">
             <iframe loading="lazy" style="border: 0px #ffffff none" src="https://living-noble-end.glitch.me" name="myiFrame" width="100%" frameborder="1" marginwidth="0px" marginheight="0px" scrolling="no"></iframe>
-            </div>
-            <div class="content">
-                <h4>Tracking Black Sea Pollution</h4>
-                <p>The interactive visual below tracks the nitrate pollution in the Black Sea from March, 2019 up until April, 2022.
-                Higher levels of nitrate pollution poses a threat to marine life and the biodiversity.</p>
-            </div>
+            <h4>Tracking Black Sea Pollution</h4>
+            <p>The interactive visual below tracks the nitrate pollution in the Black Sea from March, 2019 up until April, 2022.
+            Higher levels of nitrate pollution poses a threat to marine life and the biodiversity.</p>
+          </div>
         </div>
         <div class="column relief">
           <div class="content">
@@ -487,6 +483,7 @@ p {
             <p>This map is a result of trial and error loop while getting my hands on Blender.</p>
           </div>
         </div>
+      </div>
         <div class="column urban">
           <div class="content">
             <img src="https://gkankia.xyz/img/ua_sp/districts_urban_layout-01.png" alt="" style="width:100%" oncontextmenu="return false;">
