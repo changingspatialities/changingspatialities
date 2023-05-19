@@ -325,10 +325,10 @@ p {
   /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
   @media screen and (max-width: 320px) {
     header {
-        font-size: 20pt;
+      font-size: 20pt;
     }
     .column {
-      width: 100%;
+      max-width: 100%;
       height: 100px;
       margin-top: 15px;
       margin-bottom: 10px;
@@ -341,7 +341,7 @@ p {
     padding-top: 25;
     padding-bottom: 25;
     line-height: 34%;
-}
+    }
   }
 </style>
 <div oncontextmenu="return false" id="cover-map">
