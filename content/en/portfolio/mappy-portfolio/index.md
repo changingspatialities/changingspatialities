@@ -359,13 +359,14 @@ p.about {
       flex-basis: 100%;
       }
     #myBtnContainer {
-      max-width: 100%;
-      margin: 0 auto;
-      padding: 5 5 5 5;
-      position: absolute;
-      top: 70%;
-      left: 50%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
       }
+    .btn {
+      line-height: 15px;
+    }
     img:hover {
       -ms-transform: scale(1.05); /* IE 9 */
       -webkit-transform: scale(1.05); /* Safari 3-8 */
