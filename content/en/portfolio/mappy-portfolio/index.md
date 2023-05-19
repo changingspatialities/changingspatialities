@@ -2,7 +2,7 @@
 title: Mappy Portfolio 
 subtitle: 
 summary: 
-date: 2022-09-10
+date: 2023-05-19
 math: true
 diagram: true
 image: 
@@ -108,19 +108,23 @@ image:
     box-sizing: border-box;
 }
 #cover-map {
-    height: 500px;
+  height: 500px;
+  margin: 0 auto !important;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
 }
 .mapboxgl-canvas-container {
-  margin: auto;
-  padding: 0;
+  margin: 0 auto !important;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
 }
 body {
     font-family: 'belltopo_sansregular' !important;
     font-size: 50pt;
     color: #333;
     margin: 0 auto;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 19px;
+    padding-left: 19px;
     -webkit-user-select: none;
     -webkit-touch-callout: none;
     -moz-user-select: none;
@@ -296,9 +300,9 @@ p {
     -webkit-touch-callout: none;
  } 
  img:hover {
-    -ms-transform: scale(1.0); /* IE 9 */
-    -webkit-transform: scale(1.0); /* Safari 3-8 */
-    transform:  scale(1.0);
+    -ms-transform: scale(1.15); /* IE 9 */
+    -webkit-transform: scale(1.15); /* Safari 3-8 */
+    transform:  scale(1.15);
     -webkit-transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -o-transition: all .5s ease-in-out;
@@ -321,12 +325,15 @@ p {
     }
   }
   /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-  @media screen and (max-width: 600px) {
+  @media screen and (min-width: 300px) {
     header {
-        font-size: 30pt;
+        font-size: 20pt;
     }
     .column {
       width: 100%;
+      height: 100px;
+      margin-top: 15px;
+      margin-bottom: 10px;
     }
   }
 </style>
@@ -467,15 +474,6 @@ p {
             <p style="text-align: center;">See the full project <a class="link" href="https://zaxis.ge/blog-en-visual/georgia-in-three-dimensions-vol-l">here</a></p>        
           </div>
         </div>
-      <div class="row">
-        <div class="column interactive">
-          <div class="content">
-            <iframe loading="lazy" style="border: 0px #ffffff none" src="https://living-noble-end.glitch.me" name="myiFrame" width="100%" frameborder="1" marginwidth="0px" marginheight="0px" scrolling="no"></iframe>
-            <h4>Tracking Black Sea Pollution</h4>
-            <p>The interactive visual below tracks the nitrate pollution in the Black Sea from March, 2019 up until April, 2022.
-            Higher levels of nitrate pollution poses a threat to marine life and the biodiversity.</p>
-          </div>
-        </div>
         <div class="column relief">
           <div class="content">
             <img src="https://gkankia.xyz/img/relief/caucasus_glowing-01.png" alt="" style="width:100%" oncontextmenu="return false;">
@@ -483,7 +481,19 @@ p {
             <p>This map is a result of trial and error loop while getting my hands on Blender.</p>
           </div>
         </div>
+      <div class="row">
+        <div class="column interactive">
+          <div class="content">
+            <div class="content-iframe"><br>
+            <iframe loading="lazy" style="border: 0px #ffffff none" src="https://abiding-capable-elderberry.glitch.me/" name="myiFrame" width="100%" frameborder="1" marginwidth="0px" marginheight="0px" scrolling="no"></iframe></div>
+          <div class="content">
+            <h4>Tracking Black Sea Pollution</h4>
+            <p style="text-align: center;">The interactive visual below tracks the nitrate pollution in the Black Sea from March, 2019 up until April, 2022.
+            Higher levels of nitrate pollution poses a threat to marine life and the biodiversity.</p>
+          </div>
+        </div>
       </div>
+      <div class="row">
         <div class="column urban">
           <div class="content">
             <img src="https://gkankia.xyz/img/ua_sp/districts_urban_layout-01.png" alt="" style="width:100%" oncontextmenu="return false;">
