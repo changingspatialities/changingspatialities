@@ -309,7 +309,8 @@ p {
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 900) {
     header {
-        font-size: 50pt;
+      max-width: 100%;
+      font-size: 50pt;
     }
     .column {
       width: 100%;
@@ -325,6 +326,7 @@ p {
   /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
   @media screen and (max-width: 320px) {
     header {
+      max-width: 100%;
       font-size: 20pt;
     }
     .column {
