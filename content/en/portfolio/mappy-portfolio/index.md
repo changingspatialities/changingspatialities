@@ -333,6 +333,15 @@ p {
       margin-top: 15px;
       margin-bottom: 10px;
     }
+    #about {
+    max-width: 100%;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-top: 25;
+    padding-bottom: 25;
+    line-height: 34%;
+}
   }
 </style>
 <div oncontextmenu="return false" id="cover-map">
