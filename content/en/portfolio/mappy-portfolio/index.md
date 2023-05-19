@@ -363,6 +363,7 @@ p.about {
       margin: 0 auto;
       padding: 5 5 5 5;
       position: relative;
+      top: 20%;
       left: 50%;
       }
     img:hover {
