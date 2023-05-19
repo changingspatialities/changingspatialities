@@ -321,6 +321,38 @@ p.about {
       padding-top: 10;
       }
     p.about {
+      line-height: 35px;
+    }
+    .column {
+      flex-basis: 100%;
+      }
+    #myBtnContainer {
+      max-width: 100%;
+      margin: 0 auto;
+      position: relative;
+      left: 50%;
+      }
+    img:hover {
+      -ms-transform: scale(1.05); /* IE 9 */
+      -webkit-transform: scale(1.05); /* Safari 3-8 */
+      transform:  scale(1.05);
+      -webkit-transition: all .5s ease-in-out;
+      -moz-transition: all .5s ease-in-out;
+      -o-transition: all .5s ease-in-out;
+      transition: all .5s ease-in-out;
+      }
+  }
+@media screen and (max-width: 450px) {
+    header {
+      font-size: 40pt;
+    }
+    #about {
+      max-width: 100%;
+      margin-top: 10px;
+      margin-bottom: 40px;
+      padding-top: 10;
+      }
+    p.about {
       line-height: 30px;
     }
     .column {
@@ -329,6 +361,7 @@ p.about {
     #myBtnContainer {
       max-width: 100%;
       margin: 0 auto;
+      padding: 5 5 5 5;
       position: relative;
       left: 50%;
       }
