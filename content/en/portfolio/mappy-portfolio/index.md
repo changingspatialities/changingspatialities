@@ -233,20 +233,21 @@ p.about {
   }
 /* Style the buttons */
 #myBtnContainer {
-    max-width: 100%;
     margin: 0;
-    padding: 50;
+    padding: 0;
     position: absolute;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
 .btn {
+    max-width: 100%;
+    font-family: 'belltopo_sansregular'; 
     font-size: 15px;
     color: #969696;
     border: none !important;
     outline: none !important;
-    padding: 50;
+    padding: 10px;
     background: linear-gradient(180deg,white 90%, #2862FC 10%) !important;
     cursor: pointer;
   }
