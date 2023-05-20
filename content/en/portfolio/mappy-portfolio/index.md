@@ -332,7 +332,7 @@ p.about {
       position: relative;
       left: 50%;
       }
-    .btn {
+    main.btn {
       font-size: 15px;
       line-height: 15px;
     }
@@ -369,8 +369,8 @@ p.about {
       position: relative;
       left: 50%;
       }
-    .btn {
-      font-size: 10px;
+    main.btn {
+      font-size: 1px;
       line-height: 15px;
     }
     img:hover {
