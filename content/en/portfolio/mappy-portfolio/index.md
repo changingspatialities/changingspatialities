@@ -310,7 +310,7 @@ p.about {
     transition: all .5s ease-in-out;
  }
   /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 1200px) {
     header {
       font-size: 40pt;
     }
@@ -332,6 +332,10 @@ p.about {
       position: relative;
       left: 50%;
       }
+    .btn {
+      font-size: 15px;
+      line-height: 15px;
+    }
     img:hover {
       -ms-transform: scale(1.05); /* IE 9 */
       -webkit-transform: scale(1.05); /* Safari 3-8 */
@@ -366,7 +370,7 @@ p.about {
       left: 50%;
       }
     .btn {
-      font-size: 5px;
+      font-size: 10px;
       line-height: 15px;
     }
     img:hover {
