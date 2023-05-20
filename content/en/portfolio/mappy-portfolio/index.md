@@ -346,7 +346,7 @@ p.about {
       transition: all .5s ease-in-out;
       }
   }
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 450px) {
     header {
       font-size: 40pt;
     }
