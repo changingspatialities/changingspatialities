@@ -396,16 +396,16 @@ p.about {
               </div>
         <div id="about">
             <p class="about" style="font-size: 17px;">Here is a selection of maps and other data visualisation materials I have worked on both, in <span class="highlight">personal and professional capacity.</span> For more cool stuff, have a look at our organisation's work at <a class="link" href="https://zaxis.ge">Z.axis</a>.</p>
+        </div>
+        <div id="myBtnContainer">
+          <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+          <button class="btn" onclick="filterSelection('urban')"> Urban Planning & Spatial Analysis</button>
+          <button class="btn" onclick="filterSelection('relief')"> [Shaded/3D] Relief</button>
+          <button class="btn" onclick="filterSelection('interactive')"> Interactive</button>
         </div>   
     </header>
     <!-- MAIN (Center website) -->
     <div class="main">
-    <div id="myBtnContainer">
-      <button class="btn active" onclick="filterSelection('all')"> Show all</button>
-      <button class="btn" onclick="filterSelection('urban')"> Urban Planning & Spatial Analysis</button>
-      <button class="btn" onclick="filterSelection('relief')"> [Shaded/3D] Relief</button>
-      <button class="btn" onclick="filterSelection('interactive')"> Interactive</button>
-    </div>
     <div class="row">
         <div class="column interactive">
           <div class="content">
