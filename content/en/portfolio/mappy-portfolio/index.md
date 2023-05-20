@@ -402,7 +402,6 @@ p.about {
       <button class="btn" onclick="filterSelection('relief')"> [Shaded/3D] Relief</button>
       <button class="btn" onclick="filterSelection('interactive')"> Interactive</button>
     </div>
-    <br>
     <div class="row">
         <div class="column interactive">
           <div class="content">
