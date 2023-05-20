@@ -366,7 +366,7 @@ p.about {
       left: 50%;
       }
     .btn {
-      font-size: 10px;
+      font-size: 5px;
       line-height: 15px;
     }
     img:hover {
