@@ -268,6 +268,7 @@ p.about {
   a.link {
     color: #333;
     padding: 30;
+    border: none;
     background: linear-gradient(180deg,white 95%, #000000 5%);
     cursor: pointer;
     text-decoration: none;
@@ -335,7 +336,7 @@ p.about {
       max-width: 100%;
       margin-top: 30px;
       margin-bottom: 40px;
-      position: absolute;
+      position: relative;
       left: 50%;
       }
     main.btn {
@@ -355,7 +356,8 @@ p.about {
 @media screen and (min-width: 300px) and (max-width: 600px) {
     .main {
       max-width: 100%;
-      margin-top: 50px;
+      margin-top: 100px;
+      padding-top: 100px;
     }
     header {
       font-size: 40pt;
@@ -364,26 +366,41 @@ p.about {
       max-width: 100%;
       margin-top: 10px;
       margin-bottom: 40px;
-      padding-top: 10px;
-      padding-top: 40px;
       }
     p.about {
       line-height: 30px;
-    }
+      padding-bottom: 50px;
+      }
+    a.link {
+      color: #333;
+      padding: 30;
+      border: none;
+      background: linear-gradient(180deg,white 97%, #000000 3%);
+      cursor: pointer;
+      text-decoration: none;
+      }
+    .row {
+      top: 25%;
+      }
     .column {
       flex-basis: 100%;
       }
     #myBtnContainer {
+      display: block;
       margin-top: 20px;
       margin-bottom: 25px;
+      padding: 0 auto;
       max-width: 100%;
-      margin: 0 auto;
-      position: absolute;
+      position: relative;
       left: 50%;
       }
     .btn {
-      font-size: 10px;
+      margin-top: 5px;
+      margin-bottom: 5px;
+      display: block;
+      font-size: 12px;
       line-height: 15px;
+      background: linear-gradient(180deg,white 95%, #2862FC 5%) !important;
     }
     img:hover {
       -ms-transform: scale(1.05); /* IE 9 */
