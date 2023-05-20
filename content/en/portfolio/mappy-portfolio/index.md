@@ -332,8 +332,8 @@ p.about {
       position: relative;
       left: 50%;
       }
-    main.btn {
-      font-size: 15px;
+    .btn {
+      font-size: 1px;
       line-height: 15px;
     }
     img:hover {
