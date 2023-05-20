@@ -310,7 +310,7 @@ p.about {
     transition: all .5s ease-in-out;
  }
   /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 900px) {
     header {
       font-size: 40pt;
     }
