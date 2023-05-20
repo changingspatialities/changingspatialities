@@ -360,12 +360,13 @@ p.about {
       flex-basis: 100%;
       }
     #myBtnContainer {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
+      max-width: 100%;
+      margin: 0 auto;
+      position: relative;
+      left: 50%;
       }
     .btn {
+      font-size: 10px;
       line-height: 15px;
     }
     img:hover {
