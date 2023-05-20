@@ -145,6 +145,7 @@ header {
 /* Center website */
 .main {
     max-width: 100%;
+    margin-top: 100px;
   }
 h1 {
     font-family: 'high_alpineregular' !important;
@@ -233,8 +234,8 @@ p.about {
   }
 /* Style the buttons */
 #myBtnContainer {
-    margin: 0;
-    padding: 0;
+    margin-top: 40px;
+    margin-bottom: 50px;
     position: absolute;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
@@ -247,12 +248,11 @@ p.about {
     color: #969696;
     border: none !important;
     outline: none !important;
-    padding: 10px;
     background: linear-gradient(180deg,white 90%, #2862FC 10%) !important;
     cursor: pointer;
   }
   .btn:hover {
-    font-size: 20px;
+    font-size: 17px;
     background-color: #ffffff;
     color: #252525;
   }
@@ -311,7 +311,11 @@ p.about {
     transition: all .5s ease-in-out;
  }
   /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-  @media screen and (max-width: 1200px) {
+  @media screen and (min-width: 610px) and (max-width: 1200px) {
+    .main {
+      max-width: 100%;
+      margin-top: 75px;
+    }
     header {
       font-size: 40pt;
     }
@@ -329,12 +333,13 @@ p.about {
       }
     #myBtnContainer {
       max-width: 100%;
-      margin: 0 auto;
-      position: relative;
+      margin-top: 30px;
+      margin-bottom: 40px;
+      position: absolute;
       left: 50%;
       }
-    .btn {
-      font-size: 1px;
+    main.btn {
+      font-size: 10px;
       line-height: 15px;
     }
     img:hover {
@@ -347,7 +352,11 @@ p.about {
       transition: all .5s ease-in-out;
       }
   }
-@media screen and (max-width: 450px) {
+@media screen and (min-width: 300px) and (max-width: 600px) {
+    .main {
+      max-width: 100%;
+      margin-top: 50px;
+    }
     header {
       font-size: 40pt;
     }
@@ -365,13 +374,15 @@ p.about {
       flex-basis: 100%;
       }
     #myBtnContainer {
+      margin-top: 20px;
+      margin-bottom: 25px;
       max-width: 100%;
       margin: 0 auto;
-      position: relative;
+      position: absolute;
       left: 50%;
       }
-    main.btn {
-      font-size: 1px;
+    .btn {
+      font-size: 10px;
       line-height: 15px;
     }
     img:hover {
