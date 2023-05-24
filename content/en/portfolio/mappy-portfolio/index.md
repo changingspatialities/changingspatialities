@@ -578,7 +578,7 @@ p.about {
           <div class="content">
             <img src="https://gkankia.xyz/img/ua_sp/walkability_analysis.jpg" alt="" style="width:100%" oncontextmenu="return false;">
             <h4>Urban Walkability Analysis</h4>
-            <p>This visual comes from an experimental research on urban walkability in Tbilisi, between 2016-2017. Later, I was privileged enough to present our analysis at WALK 21 conference in Bogota, in October, 2018. Read more about it <a class="link" href="https://gkankia.xyz/talk/walk-21/">here</a>.</p>
+            <p>An experimental research on urban walkability conditions in Tbilisi, between 2016-2017. I was privileged to present our analysis at WALK 21 conference in Bogotá (Colombia), in October, 2018. Read more about it <a class="link" href="https://gkankia.xyz/talk/walk-21/">here</a>.</p>
           </div>
         </div>
         <div class="column urban">
@@ -620,7 +620,7 @@ p.about {
           <div class="content">
             <img src="https://gkankia.xyz/img/ua_sp/tskaltubo.png" alt="" style="width:100%" oncontextmenu="return false;">
             <h4>Tskaltubo Resort Masterplan</h4>
-            <p>Urban accessibility analysis for the Tskaltubo masterplan project team. Read more about the project <a class="link" href="">here</a>.</p>
+            <p>Urban accessibility analysis for the Tskaltubo masterplan project team. Read more about the project <a class="link" href="https://zaxis.ge/portfolio/ka-tskaltubo-masterplan">here</a>.</p>
           </div>
         </div>
         <div class="column urban">
