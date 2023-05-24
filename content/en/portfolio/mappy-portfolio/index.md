@@ -576,6 +576,13 @@ p.about {
         </div>
         <div class="column urban">
           <div class="content">
+            <img src="https://gkankia.xyz/img/ua_sp/walkability_analysis.jpg" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Urban Walkability Analysis</h4>
+            <p>This visual comes from an experimental research on urban walkability in Tbilisi, between 2016-2017. Later, I was privileged enough to present our analysis at WALK 21 conference in Bogota, in October, 2018. Read more about it <a class="link" href="https://gkankia.xyz/talk/walk-21/">here</a>.</p>
+          </div>
+        </div>
+        <div class="column urban">
+          <div class="content">
             <img src="https://gkankia.xyz/img/ua_sp/restaurants_tbilisi-01.png" alt="" style="width:100%" oncontextmenu="return false;">
             <h4>Urban Food Geography</h4>
             <p style="text-align: center;">See the full project <a class="link" href="https://zaxis.ge/blog-ka-visual/food-geography-post-pandemic-city">here</a></p>
@@ -599,8 +606,21 @@ p.about {
           <div class="content">
             <img src="https://gkankia.xyz/img/ua_sp/detentions along SO abl upd_may_2023.png" alt="" style="width:100%" oncontextmenu="return false;">
             <h4>Illegal Detentions Along the ABL</h4>
-            <p>This map highlights the arrests, or rather kidnappings of local residents from their own land plots along the Tskhinvali region administrative boundary line 
-                by Russian occupation forces and South Ossetia's KGB guards.</p>
+            <p>This map highlights the arrests, or rather kidnappings of local residents from their own land plots along the Tskhinvali region administrative boundary line by Russian occupation forces and South Ossetia's KGB guards.</p>
+          </div>
+        </div>
+        <div class="column urban">
+          <div class="content">
+            <img src="https://gkankia.xyz/img/ua_sp/tram_en-01.jpg" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Tbilisi Tram Newtork in 1960s</h4>
+            <p>Regardless of how faulty the whole Soviet system might have been, their approach to urban transit planning did make a lot of sense.</p>
+          </div>
+        </div>
+        <div class="column urban">
+          <div class="content">
+            <img src="https://gkankia.xyz/img/ua_sp/tskaltubo.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Tskaltubo Resort Masterplan</h4>
+            <p>Urban accessibility analysis for the Tskaltubo masterplan project team. Read more about the project <a class="link" href="">here</a>.</p>
           </div>
         </div>
         <div class="column urban">
