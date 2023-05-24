@@ -434,19 +434,19 @@ p.about {
     <!-- MAIN (Center website) -->
     <div class="main">
     <div class="row">
+      <div class="column relief">
+          <div class="content">
+            <img src="https://gkankia.xyz/img/relief/სამცხე-ჯავახეთი_plan_oblique_label.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Samtskhe - Javakheti, Georgia</h4>
+            <p style="text-align: center;">Retro-style plan oblique</p>
+          </div>
+        </div>
         <div class="column interactive">
           <div class="content">
             <img src="https://gkankia.xyz/img/interactive/tbilisi-1984-2022-01.png" alt="" style="width:100%" oncontextmenu="return false;">
             <h4>Tbilisi Evolution from the 80s</h4>
             <p style="text-align: center;">See the full project <a class="link" href="https://zaxis.ge/portfolio/ka-tbilisi-evolution">here<a></p>
             <p style="text-align: center;">In collaboration with <i>Tbilisi as an Urban Assemblage</i> <a class="link" href="https://urbanassemblage.iliauni.edu.ge/interactive-map/">project</a>.</p>
-          </div>
-        </div>
-        <div class="column relief">
-          <div class="content">
-            <img src="https://gkankia.xyz/img/relief/სამცხე-ჯავახეთი_plan_oblique_label.png" alt="" style="width:100%" oncontextmenu="return false;">
-            <h4>Samtskhe - Javakheti, Georgia</h4>
-            <p style="text-align: center;">Retro-style plan oblique</p>
           </div>
         </div>
     </div>
