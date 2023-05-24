@@ -1,13 +1,13 @@
 ---
-title: Mappy Portfolio 
-subtitle: 
-summary: 
+title: Mapping Changing Spatialities 
+subtitle: Mappy Portfolio 
+summary: A Collection of Cool Maps and Visuals
 date: 2023-05-19
 math: true
 diagram: true
 image: 
   placement: 3
-  caption: ''
+  caption: 'Mappy Portfolio'
 #links:
   #- icon_pack: fab
   #  icon: medium
