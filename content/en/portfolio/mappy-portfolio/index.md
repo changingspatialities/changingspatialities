@@ -20,7 +20,7 @@ diagram: false
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property='og:title' content='Mapping Changing Spatialities'/>
-    <meta property='og:image' content=''/>
+    <meta property='og:image' content='https://imgur.com/9Ww0MYu'/>
     <meta property='og:description' content='Mappy Portfolio'/>
     <meta property='og:url' content='https://gkankia.xyz/portfolio/mappy-portfolio/'/>
     <title>Mapping Changing Spatialities</title>
@@ -100,10 +100,6 @@ diagram: false
 }
 .article-metadata {
   visibility: hidden !important
-}
-.featured-image {
-  visibility: hidden !important;
-  display:none !important;
 }
 /* portfolio page customization */
 * {
