@@ -101,6 +101,10 @@ diagram: false
 .article-metadata {
   visibility: hidden !important
 }
+img.featured-image {
+  visibility: hidden !important;
+  display:none !important;
+}
 /* portfolio page customization */
 * {
     box-sizing: border-box;
