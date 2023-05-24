@@ -101,7 +101,7 @@ diagram: false
 .article-metadata {
   visibility: hidden !important
 }
-img.featured-image {
+.featured-image {
   visibility: hidden !important;
   display:none !important;
 }
