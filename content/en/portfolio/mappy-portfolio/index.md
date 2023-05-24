@@ -6,8 +6,7 @@ date: 2023-05-19
 math: true
 diagram: false
 image: 
-  placement: 
-  caption: ''
+
 #links:
   #- icon_pack: fab
   #  icon: medium
