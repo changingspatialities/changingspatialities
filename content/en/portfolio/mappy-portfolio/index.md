@@ -24,7 +24,7 @@ image:
     <meta property='og:title' content='Mapping Changing Spatialities'/>
     <meta property='og:image' content=''/>
     <meta property='og:description' content='Mappy Portfolio'/>
-    <meta property='og:url' content='https://gkankia.zyx/'/>
+    <meta property='og:url' content='https://gkankia.xyz/portfolio/mappy-portfolio/'/>
     <title>Mapping Changing Spatialities</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">   
