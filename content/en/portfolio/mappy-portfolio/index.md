@@ -630,6 +630,12 @@ p.about {
             <p>Regardless of how faulty the whole Soviet system might have been, their approach to urban transit planning did make a lot of sense.</p>
           </div>
         </div>
+        <div class="content">
+            <img src="https://gkankia.xyz/img/ua_sp/bakhmaro_voronoi.jpg" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Bakhmaro Resort Masterplan</h4>
+            <p>A resort town planning project - my first full-time planning project. Read more about it here <a class="link" href="https://gkankia.xyz/portfolio/bakhmaro/">here</a>.</p>
+          </div>
+        </div>
         <div class="column relief">
           <div class="content">
             <img src="https://gkankia.xyz/img/relief/day 13-ararat-render-01.png" alt="" style="width:100%" oncontextmenu="return false;">
