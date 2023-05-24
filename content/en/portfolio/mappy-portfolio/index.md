@@ -1,13 +1,10 @@
 ---
 title: Mapping Changing Spatialities 
 subtitle: Mappy Portfolio 
-summary: A Collection of Cool Maps and Visuals
+summary: urban planning and analysis, shaded relief & interactive mapping
 date: 2023-05-19
 math: true
 diagram: true
-image: 
-  placement: 3
-  caption: 'Mappy Portfolio'
 #links:
   #- icon_pack: fab
   #  icon: medium
