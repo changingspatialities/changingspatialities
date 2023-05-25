@@ -530,7 +530,7 @@ p.about {
           <div class="content">
             <img src="https://gkankia.xyz/img/relief/kvemo_kartli-01.png" alt="" style="width:100%" oncontextmenu="return false;">
             <h4>Kvemo Kartli Region, Georgia</h4>
-            <p style="text-align: center;">See the full project <a class="link" href="#">here</a></p>
+            <p style="text-align: center;">See the full project <a class="link" href="https://gkankia.xyz/personal/regions-georgia/">here</a></p>
           </div>
         </div>
         <div class="column urban">
@@ -544,7 +544,7 @@ p.about {
           <div class="content">
             <img src="https://gkankia.xyz/img/relief/shaded-1-eastern_georgia_with_clouds_v1.png" alt="" style="width:100%" oncontextmenu="return false;">
             <h4>Old maps in 3D</h4>
-            <p style="text-align: center;">See the full project <a class="link" href="https://zaxis.ge/blog-en-visual/georgia-in-three-dimensions-vol-l">here</a></p>        
+            <p style="text-align: center;">See the full project <a class="link" href="https://gkankia.xyz/personal/old-topos/">here</a></p>        
           </div>
         </div>
         <div class="column relief">
@@ -625,16 +625,9 @@ p.about {
         </div>
         <div class="column urban">
           <div class="content">
-            <img src="https://gkankia.xyz/img/ua_sp/tram_en-01.jpg" alt="" style="width:100%" oncontextmenu="return false;">
-            <h4>Tbilisi Tram Newtork in 1960s</h4>
-            <p>Regardless of how faulty the whole Soviet system might have been, their approach to urban transit planning did make a lot of sense.</p>
-          </div>
-        </div>
-        <div class="column urban">
-          <div class="content">
             <img src="https://gkankia.xyz/img/ua_sp/bakhmaro_voronoi.jpg" alt="" style="width:100%" oncontextmenu="return false;">
             <h4>Bakhmaro Resort Masterplan</h4>
-            <p>A resort town planning project - my first full-time planning project. Read more about it here <a class="link" href="https://gkankia.xyz/portfolio/bakhmaro/">here</a>.</p>
+            <p>A resort town planning project - my first full-time planning project. Read more about it <a class="link" href="https://gkankia.xyz/portfolio/bakhmaro/">here</a>.</p>
           </div>
         </div>
         <div class="column relief">
@@ -656,6 +649,13 @@ p.about {
             <img src="https://gkankia.xyz/img/ua_sp/day 14-georgia fire map_final-01.png" alt="" style="width:100%" oncontextmenu="return false;">
             <h4>Georgia Fire Prevalence</h4>
             <p>In addition to the spatial distribution of wildfires, industrial areas are also detected as emitting most of the smokes into the atmosphere.</p>
+          </div>
+        </div>
+        <div class="column urban">
+          <div class="content">
+            <img src="https://gkankia.xyz/img/ua_sp/oni_sp.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Oni Municipality Spatial Plan</h4>
+            <p>This project was about developing a spatial plan for a mountainous region of Georgia, Oni municipality. See more about it <a class="link" href="https://gkankia.xyz/portfolio/racha_oni/">here</a>.</p>
           </div>
         </div>
         <div class="column relief">
