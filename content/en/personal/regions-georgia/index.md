@@ -46,6 +46,7 @@ img {
 <img src="/img/shaded_shida-kartli.png" width=100% title="">
 <img src="/img/shaded_tbilisi.png" width=100% title="">
 <img src="/img/shaded_mtskheta-mtianeti.png" width=100% title="">
+<img src="/img/shaded_samegrelo_zemo-svaneti.png" width=100% title="">
 </body>
 <p style="padding: 0 7em 2em 0;"></p>
 
