@@ -309,6 +309,15 @@ p.about {
     -o-transition: all .5s ease-in-out;
     transition: all .5s ease-in-out;
  }
+ img.video:hover {
+    -ms-transform: scale(1); /* IE 9 */
+    -webkit-transform: scale(1); /* Safari 3-8 */
+    transform:  scale(1);
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+ }
   /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
   @media screen and (min-width: 610px) and (max-width: 1200px) {
     .main {
@@ -556,13 +565,10 @@ p.about {
         </div>
       <div class="row">
         <div class="column urban">
-        <div class="content">
-          <video width="320" height="240" controls>
-          <source src="https://gkankia.xyz/img/ua_sp/animation_energy_use.mp4" type="video/mp4">
-          <source src="https://gkankia.xyz/img/ua_sp/animation_energy_use.ogg" type="video/ogg">
-          Your browser does not support the video tag.</video>
-          <h4>Energy Use in South Caucasus</h4>
-          <p style="text-align: center;">This is an experimental approach to spatial data visualisation.</p>
+          <div class="content">
+            <img class="video" src="https://gkankia.xyz/img/ua_sp/animation_energy_use.mp4" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Energy Use in South Caucasus</h4>
+            <p style="text-align: center;">An experimental approach to spatial data visualisation.</p>
         </div>
       </div>
     </div>
