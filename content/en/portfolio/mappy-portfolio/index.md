@@ -557,9 +557,12 @@ p.about {
       <div class="row">
         <div class="column urban">
         <div class="content">
-          <img src="https://gkankia.xyz/img/ua_sp/animation_energy_use.mp4" alt="" style="width:100%" oncontextmenu="return false;">
+          <video width="320" height="240" controls>
+          <source src="https://gkankia.xyz/img/ua_sp/animation_energy_use.mp4" type="video/mp4">
+          <source src="https://gkankia.xyz/img/ua_sp/animation_energy_use.ogg" type="video/ogg">
+          Your browser does not support the video tag.</video>
           <h4>Energy Use in South Caucasus</h4>
-          <p style="text-align: center;">The panorama of the Enguri river gorge in Svaneti, Georgia.</p>
+          <p style="text-align: center;">This is an experimental approach to spatial data visualisation.</p>
         </div>
       </div>
     </div>
