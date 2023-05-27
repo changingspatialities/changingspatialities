@@ -555,6 +555,15 @@ p.about {
           </div>
         </div>
       <div class="row">
+        <div class="column urban">
+        <div class="content">
+          <img src="https://gkankia.xyz/img/ua_sp/animation_energy_use.mp4" alt="" style="width:100%" oncontextmenu="return false;">
+          <h4>Energy Use in South Caucasus</h4>
+          <p style="text-align: center;">The panorama of the Enguri river gorge in Svaneti, Georgia.</p>
+        </div>
+      </div>
+    </div>
+      <div class="row">
         <div class="column interactive">
           <div class="content">
             <div class="content-iframe"><br>
