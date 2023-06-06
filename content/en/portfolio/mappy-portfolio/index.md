@@ -493,6 +493,13 @@ p.about {
           </div>
         </div>
         <div class="column relief">
+          <div class="content">
+            <img src="https://gkankia.xyz/img/relief/bolnisi-v1.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Bolnisi Municipality Research</h4>
+            <p>I designed this map for a research publication by Heinrich Böll Stiftung South Caucasus. The research focuses on the industrial activities in the region and the subsequent environmental damage as a result of large-scale extractivist processes. Find the research <a class="link" href="">here</a>.</p>
+          </div>
+        </div>
+        <div class="column relief">
             <div class="content">
               <img src="https://gkankia.xyz/img/relief/day 28-puerto_rico_trench.png" alt="" style="width:100%" oncontextmenu="return false;">
               <h4>Puerto Rico Trench</h4>
