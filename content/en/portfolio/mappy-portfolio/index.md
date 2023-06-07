@@ -553,9 +553,9 @@ p.about {
       <div class="row">
         <div class="column relief">
           <div class="content">
-            <img src="https://gkankia.xyz/img/relief/" alt="" style="width:100%" oncontextmenu="return false;">
-            <h4>Svaneti Mountains</h4>
-            <p style="text-align: center;">The panorama of the Enguri river gorge in Svaneti, Georgia.</p>
+            <img src="https://gkankia.xyz/img/relief/peaks of the caucasus-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Peaks of the Caucasus</h4>
+            <p style="text-align: center;">An experimental approach to 3D relief visualization using a combination of QGIS/Blender.</p>
           </div>
         </div>
       </div>
