@@ -506,6 +506,13 @@ p.about {
             <p style="text-align: center;">See the full project <a class="link" href="https://zaxis.ge/blog-ka-visual/food-geography-post-pandemic-city">here</a></p>
           </div>
         </div>
+        <div class="column relief">
+          <div class="content">
+            <img src="https://gkankia.xyz/img/relief/kazbegi_close-up.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Mount Kazbegi</h4>
+            <p style="text-align: center;">I experimented with using hexagons to represent height values and visualise topography through a new perspective.</p>
+          </div>
+        </div>
         <div class="column urban">
           <div class="content">
             <img src="https://gkankia.xyz/img/ua_sp/bolnisi-v1-frame-01.png" alt="" style="width:100%" oncontextmenu="return false;">
