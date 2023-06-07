@@ -664,7 +664,7 @@ p.about {
         </div>
         <div class="column urban">
           <div class="content">
-            <img src="https://gkankia.xyz/img/img/ua_sp/mukhrani_space_syntax.jpg" alt="" style="width:100%" oncontextmenu="return false;">
+            <img src="https://gkankia.xyz/img/ua_sp/mukhrani_space_syntax.jpg" alt="" style="width:100%" oncontextmenu="return false;">
             <h4>Mukhrani Village Center Development Plan</h4>
             <p>I applied the concept of space syntax for the first time in spatial planning context in Georgia. This model is essential in identifying the spatial pattern of the built environment. We were able to properly delimit the historic urban fabric and highlight its importance from a cultural heritage perspective. See more about the project <a class="link" href="https://gkankia.xyz/portfolio/mukhrani/">here</a>.</p>
           </div>
