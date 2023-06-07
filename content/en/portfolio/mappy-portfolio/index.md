@@ -549,6 +549,17 @@ p.about {
             <p style="text-align: center;">See the full project <a class="link" href="https://gkankia.xyz/personal/regions-georgia/">here</a></p>
           </div>
         </div>
+      </div>
+      <div class="row">
+        <div class="column relief">
+          <div class="content">
+            <img src="https://gkankia.xyz/img/relief/" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>Svaneti Mountains</h4>
+            <p style="text-align: center;">The panorama of the Enguri river gorge in Svaneti, Georgia.</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
         <div class="column urban">
           <div class="content">
             <img src="https://gkankia.xyz/img/ua_sp/swimming_pool.png" alt="" style="width:100%" oncontextmenu="return false;">
@@ -573,7 +584,7 @@ p.about {
       <div class="row">
         <div class="column urban">
           <div class="content">
-            <img class="video" src="https://gkankia.xyz/img/ua_sp/animation_energy_use.mp4" alt="" style="width:100%" oncontextmenu="return false;">
+            <img src="https://gkankia.xyz/img/ua_sp/animation_energy_use.mp4" alt="" style="width:100%" oncontextmenu="return false;">
             <h4>Energy Use in South Caucasus</h4>
             <p style="text-align: center;">An experimental approach to spatial data visualisation.</p>
         </div>
