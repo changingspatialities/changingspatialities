@@ -640,6 +640,7 @@ p.about {
           </div>
         </div>
       </div>
+      <div class="row">
         <div class="column interactive">
           <div class="content">
             <img src="https://gkankia.xyz/img/interactive/soviet_georgia_3d-01.png" alt="" style="width:100%" oncontextmenu="return false;">
