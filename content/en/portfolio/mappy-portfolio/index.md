@@ -310,7 +310,6 @@ p.about {
     transition: all .5s ease-in-out;
  }
  img.video {
-    display: block !important;
     margin-left: auto;
     margin-right: auto;
     width: 75%;
