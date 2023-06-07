@@ -721,7 +721,7 @@ p.about {
         <div class="column urban">
           <div class="content">
             <img src="https://gkankia.xyz/img/ua_sp/gomis mta_zoning.png" alt="" style="width:100%" oncontextmenu="return false;">
-            <h4>Oni Municipality Spatial Plan</h4>
+            <h4>Gomi Mta (mountain) Land Use Plan</h4>
             <p>The general land use zoning plan for the mountainous settlment of Gomis Mta (Gomi Mountain). See more about it <a class="link" href="https://gkankia.xyz/portfolio/gomis-mta/">here</a>.</p>
           </div>
         </div>
