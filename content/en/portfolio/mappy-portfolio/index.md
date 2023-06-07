@@ -513,6 +513,13 @@ p.about {
             <p style="text-align: center;">I experimented with using hexagons to represent height values and visualise topography through a new perspective.</p>
           </div>
         </div>
+        <div class="column relief">
+          <div class="content">
+            <img src="https://gkankia.xyz/img/relief/day 26-transcaucasian islands_labeled-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <h4>The Islands <i>of</i> Transcaucasia</h4>
+            <p style="text-align: center;">In case the global sea level rises up to 1000 meters, this is what the geogrpahy of the South Caucasus may look like.</p>
+          </div>
+        </div>
         <div class="column urban">
           <div class="content">
             <img src="https://gkankia.xyz/img/ua_sp/bolnisi-v1-frame-01.png" alt="" style="width:100%" oncontextmenu="return false;">
