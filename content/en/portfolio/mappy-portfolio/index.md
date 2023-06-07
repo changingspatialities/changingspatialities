@@ -310,10 +310,10 @@ p.about {
     transition: all .5s ease-in-out;
  }
  img.video {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+    display: block !important;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
  }
  img.video:hover {
     -ms-transform: scale(1); /* IE 9 */
