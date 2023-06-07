@@ -301,9 +301,9 @@ p.about {
     -webkit-touch-callout: none;
  } 
  img:hover {
-    -ms-transform: scale(1.15); /* IE 9 */
-    -webkit-transform: scale(1.15); /* Safari 3-8 */
-    transform:  scale(1.15);
+    -ms-transform: scale(1.05); /* IE 9 */
+    -webkit-transform: scale(1.05); /* Safari 3-8 */
+    transform:  scale(1.05);
     -webkit-transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -o-transition: all .5s ease-in-out;
