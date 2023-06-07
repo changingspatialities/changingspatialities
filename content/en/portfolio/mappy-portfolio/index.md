@@ -476,7 +476,7 @@ p.about {
     <div class="row">
         <div class="column relief">
         <div class="content">
-          <img src="https://gkankia.xyz/img/relief/day 4-svaneti mountains-pano-01.png" alt="" style="width:95%" oncontextmenu="return false;">
+          <img class="peaks" src="https://gkankia.xyz/img/relief/day 4-svaneti mountains-pano-01.png" alt="" style="width:100%" oncontextmenu="return false;">
           <h4>Svaneti Mountains</h4>
           <p style="text-align: center;">The panorama of the Enguri river gorge in Svaneti, Georgia.</p>
         </div>
