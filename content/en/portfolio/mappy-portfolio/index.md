@@ -312,9 +312,18 @@ p.about {
  img.video {
     margin-left: auto;
     margin-right: auto;
-    width: 75%;
+    width: 60%;
  }
  img.video:hover {
+    -ms-transform: scale(1); /* IE 9 */
+    -webkit-transform: scale(1); /* Safari 3-8 */
+    transform:  scale(1);
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+ }
+ img.peaks:hover {
     -ms-transform: scale(1); /* IE 9 */
     -webkit-transform: scale(1); /* Safari 3-8 */
     transform:  scale(1);
@@ -422,7 +431,7 @@ p.about {
       -moz-transition: all .5s ease-in-out;
       -o-transition: all .5s ease-in-out;
       transition: all .5s ease-in-out;
-      }
+    }
   }
 </style>
 <div oncontextmenu="return false" id="cover-map">
@@ -625,7 +634,7 @@ p.about {
       <div class="row">
         <div class="column relief">
           <div class="content">
-            <img src="https://gkankia.xyz/img/relief/peaks of the caucasus-01.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <img class="peaks" src="https://gkankia.xyz/img/relief/peaks of the caucasus-01.png" alt="" style="width:75%" oncontextmenu="return false;">
             <h4>Peaks of the Caucasus</h4>
             <p style="text-align: center;">An experimental approach to 3D relief data visualisation.</p>
           </div>
