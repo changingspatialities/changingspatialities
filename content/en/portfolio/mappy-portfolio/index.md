@@ -309,6 +309,12 @@ p.about {
     -o-transition: all .5s ease-in-out;
     transition: all .5s ease-in-out;
  }
+ img.video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+ }
  img.video:hover {
     -ms-transform: scale(1); /* IE 9 */
     -webkit-transform: scale(1); /* Safari 3-8 */
