@@ -581,7 +581,7 @@ p.about {
       <div class="row">
         <div class="column urban">
           <div class="content">
-            <img class="video" src="https://gkankia.xyz/img/ua_sp/animation_energy_use.mp4" alt="" style="width:100%" oncontextmenu="return false;">
+            <img class="video" src="https://gkankia.xyz/img/ua_sp/animation_energy_use.mp4" alt="" oncontextmenu="return false;">
             <h4>Energy Use in South Caucasus</h4>
             <p style="text-align: center;">An experimental approach to spatial data visualisation.</p>
         </div>
