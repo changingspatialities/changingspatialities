@@ -586,8 +586,6 @@ p.about {
             <p style="text-align: center;">An experimental approach to spatial data visualisation.</p>
         </div>
       </div>
-    </div>
-      <div class="row">
         <div class="column interactive">
           <div class="content">
             <div class="content-iframe"><br>
