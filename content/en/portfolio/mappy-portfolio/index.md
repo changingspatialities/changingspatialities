@@ -312,7 +312,7 @@ p.about {
  img.video {
     margin-left: auto;
     margin-right: auto;
-    width: 75%;
+    width: 50%;
  }
  img.video:hover {
     -ms-transform: scale(1); /* IE 9 */
