@@ -492,9 +492,9 @@ p.about {
             <p style="text-align: center;">See the full project <a class="link" href="https://zaxis.ge/blog-ka-visual/food-geography-post-pandemic-city">here</a></p>
           </div>
         </div>
-        <div class="column relief">
+        <div class="column urban">
           <div class="content">
-            <img src="https://gkankia.xyz/img/relief/bolnisi-v1.png" alt="" style="width:100%" oncontextmenu="return false;">
+            <img src="https://gkankia.xyz/img/ua_sp/bolnisi-v1-frame-01.png" alt="" style="width:100%" oncontextmenu="return false;">
             <h4>Bolnisi Municipality Research</h4>
             <p>I designed this map for a research publication by Heinrich Böll Stiftung South Caucasus. The research focuses on the industrial activities in the region and the subsequent environmental damage as a result of large-scale extractivist processes. Find the research <a class="link" href="">here</a>.</p>
           </div>
