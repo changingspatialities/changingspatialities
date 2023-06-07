@@ -649,7 +649,7 @@ p.about {
         </div>
         <div class="column relief">
           <div class="content">
-            <img class="peaks" src="https://gkankia.xyz/img/relief/kazbegi_close-up.png" alt="" style="width:75%" oncontextmenu="return false;">
+            <img src="https://gkankia.xyz/img/relief/kazbegi_close-up.png" alt="" style="width:100%" oncontextmenu="return false;">
             <h4>Mount Kazbegi</h4>
             <p style="text-align: center;">I experimented with using hexagons to represent height values and visualise topography through a new perspective.</p>
           </div>
