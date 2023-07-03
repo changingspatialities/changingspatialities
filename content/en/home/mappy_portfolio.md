@@ -18,10 +18,10 @@ height = "400px"
 
 [[item]]
   title = "Mappy Portfolio"
-  content = "This page features some of the maps and visuals I have created that I think is worth sharing."
+  content = "This page features some of the maps and visuals I have created that I think is worth sharing"
   align = "center"
   cta_label = "View More"
-  cta_url = "/personal/30-days-of-mapping/"
+  cta_url = "/portfolio/mappy-portfolio/"
   cta_icon_pack = "fas"
   cta_icon = "map"
   overlay_color = "#fff"  # An HTML color value.
