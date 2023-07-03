@@ -18,9 +18,9 @@ height = "150px"
 
 [[item]]
   title = ""
-  content = ""
+  content = "click below to"
   align = "center"
-  cta_label = "View More"
+  cta_label = "see more"
   cta_url = "/portfolio/mappy-portfolio/"
   cta_icon_pack = "fas"
   cta_icon = "map"
