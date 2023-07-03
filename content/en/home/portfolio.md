@@ -9,16 +9,11 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Mappy Portfolio"
-subtitle = "Spatial planning, cartography, consultancy"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
-  cta_label = "View More"
-  cta_url = "/portfolio/mappy-portfolio/"
-  cta_icon_pack = "fas"
-  cta_icon = "map"
-  overlay_color = "#fff"
 
 [design.background]
   # Apply a background color, gradient, or image.
