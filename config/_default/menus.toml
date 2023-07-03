@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Portfolio"
-  url = "#mappy_portfolio"
+  url = "#portfolio"
   weight = 40
 
 [[main]]

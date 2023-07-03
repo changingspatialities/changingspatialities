@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Mappy Portfolio"
-subtitle = ""
+subtitle = "Personal and professional work visualized"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
