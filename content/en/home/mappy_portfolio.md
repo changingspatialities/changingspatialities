@@ -25,7 +25,16 @@ height = "400px"
   cta_icon_pack = "fas"
   cta_icon = "map"
   overlay_color = "#fff"  # An HTML color value.
-  overlay_img = "featured_khada.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_img = "shaded-1-javakheti_topo_200k.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
+[advanced]
+ # Custom CSS. 
+ css_style = "a.carousel-control-prev, a.carousel-control-next {
+    visibility: hidden;
+  }"
+ 
+ # CSS class.
+ css_class = ""
+ 
 +++
