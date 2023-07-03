@@ -5,17 +5,11 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Mappy Portfolio"
-subtitle = "<p>This page features some of the maps and visuals I have created that I think is worth sharing.</p>"
-
-[[item]]
-  cta_label = "View More"
-  cta_url = "https://gkankia.xyz/portfolio/mappy-portfolio/"
-  cta_icon_pack = "fas"
-  cta_icon = "map"
+title = "Professional Portfolio"
+subtitle = "<p>Spatial planning, cartography, consultancy</p>"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -35,7 +29,7 @@ subtitle = "<p>This page features some of the maps and visuals I have created th
   # gradient_end = "ForestGreen"
   
   # Background image.
-    image = "day 25-two colours_v4.png"  # Name of image in `static/img/`.
+    image = ""  # Name of image in `static/img/`.
     image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
