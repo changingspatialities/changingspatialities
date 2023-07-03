@@ -11,20 +11,20 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "200px"
+height = "150px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
   title = ""
-  content = "click below to"
+  content = ""
   align = "center"
   cta_label = "see more"
   cta_url = "/portfolio/mappy-portfolio/"
   cta_icon_pack = "fas"
   cta_icon = "map"
-  overlay_color = "#F7F7F7"  # An HTML color value.
+  overlay_color = "#fff"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
