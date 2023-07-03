@@ -28,9 +28,4 @@ height = "400px"
   overlay_img = "map-4-01.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
-<style>
-  a.carousel-control-prev, a.carousel-control-next {
-    visibility: hidden;
-  }
-</style>
 +++
