@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Mappy Portfolio"
-subtitle = "<p style="text-align: center;">Spatial planning, cartography, consultancy</p>"
+subtitle = "Spatial planning, cartography, consultancy"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
