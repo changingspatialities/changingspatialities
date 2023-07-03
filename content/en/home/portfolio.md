@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "<p style="text-align: center;">Mappy Portfolio</p>"
+title = "Mappy Portfolio"
 subtitle = "<p style="text-align: center;">Spatial planning, cartography, consultancy</p>"
 
 [design]
