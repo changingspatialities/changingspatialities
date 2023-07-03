@@ -25,7 +25,7 @@ height = "400px"
   cta_icon_pack = "fas"
   cta_icon = "map"
   overlay_color = "#fff"  # An HTML color value.
-  overlay_img = "map-4-01.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "featured_khada.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
 +++
