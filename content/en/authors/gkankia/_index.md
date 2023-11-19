@@ -22,6 +22,9 @@ organizations:
 
 education:
   courses:
+  - course: PhD in Technology and Social Change
+    institution: Linköping University, Sweden
+    year: Ongoing
   - course: MSc in Urban and Regional Planning
     institution: Stockholm University, Sweden
     year: 2021
@@ -66,8 +69,6 @@ user_groups:
 ---
 <p align="justify">
   Urban planning and geography graduate with over 7 years of practical experience. </p> 
-<p align="justify">
-  I have worked on numerous spatial planning and research projects, applying both quantitative and qualitative methods. While most of the my work is located in the Georgian socio-spatial context, from my previous studies and fellowships I have gained valuable insights into the urban and regional development patterns in Europe, USA and Latin America. I have consulted for international organizations, including <b>The World Bank </b> and the <b> Asian Development Bank</b>.</p>
 <p align="justify"> 
   My researh interests range from the exploration of the fluidities of urban space and human bodies, the socio-material nature of the built environment and the everyday practices of urban living, to planning practices and urban policy-making. I believe in dense, human-scale and walkable communities.</p> 
 <p align="justify">
