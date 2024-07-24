@@ -72,3 +72,13 @@
 
 
 
+
+@font-face {
+    font-family: 'bpg_nino_mtavruli_normal';
+    src: url('bpg_nino_mtavruli_normal.woff2') format('woff2'),
+         url('bpg_nino_mtavruli_normal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
